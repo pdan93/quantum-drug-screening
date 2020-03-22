@@ -26,6 +26,15 @@ Pipeline.ipynb has an example of how to use the pipeline to get the necessary sc
 
 The 'candidates' folder has example of molecules, while target has the main macromolecule in different formats
 
+## Authors and Contributors
+
+* **Mark Jones** - *Chemical engineer* - [LinkedIn](https://www.linkedin.com/in/mark-jones-7730b1b4/)
+* **Mirela Balan** - *Researcher in biology* - [LinkedIn](https://www.linkedin.com/in/mirelabalan/)
+* **Marek Prachař** - *Bioinformatician* - [LinkedIn](https://www.linkedin.com/in/marek-prachar/)
+* **Daniel Popescu** - *Developer* - [LinkedIn](https://www.linkedin.com/in/daniel-popescu-7554aa83/)
+* **Timotheos Samartzidis** - *Developer* - [Github](https://github.com/timsamart)
+
+
 
 ## License
 
