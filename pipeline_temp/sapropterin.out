@@ -1,0 +1,102 @@
+ *******************************************************************************
+ ** Site#: 4000  E-mail support:    MrMOPAC@ATT.net    Version 20.079L 64BITS **
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 20.079L, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web: HTTP://OpenMOPAC.net. Days left: 182**
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Sun Mar 22 13:38:48 2020  *
+ *  PM7        - The PM7 Hamiltonian to be used
+ *  PDBOUT     - PRINT GEOMETY IN PDB FORMAT
+ *  MOZYME     - USE LOCALIZED M.O.s IN SOLVING THE SCF EQUATIONS
+ *  RAPID      - IN MOZYME SCF, USE ATOMS BEING OPTIMIZED ONLY
+ *  RESIDUES   - DETERMINE THE SEQUENCE OF RESIDUES
+ *  XYZ        - CARTESIAN COORDINATE SYSTEM TO BE USED
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY  7200.000 SECONDS
+ *  LOG        - GENERATE A LOG FILE
+ *******************************************************************************
+XYZ RAPID MOZYME PM7 LOG PDBOUT
+ candidates/sapropterin.pdb
+
+   ATOM   CHEMICAL          X               Y               Z
+  NUMBER   SYMBOL      (ANGSTROMS)     (ANGSTROMS)     (ANGSTROMS)
+ 
+     1       C         31.21300000  * -25.06600000  *   0.00000000  *
+     2       C         31.21300000  * -23.51200000  *   0.00000000  *
+     3       N         29.87000000  * -25.85200000  *   0.00000000  *
+     4       N         32.55600000  * -25.83300000  *   0.00000000  *
+     5       N         29.85700000  * -22.73800000  *   0.00000000  *
+     6       C         32.55600000  * -22.73200000  *   0.00000000  *
+     7       C         28.51500000  * -25.07900000  *   0.00000000  *
+     8       C         33.87300000  * -25.06600000  *   0.00000000  *
+     9       C         28.48900000  * -23.52500000  *   0.00000000  *
+    10       N         33.87300000  * -23.51200000  *   0.00000000  *
+    11       O         32.55600000  * -21.20300000  *   0.00000000  *
+    12       N         35.20300000  * -25.83300000  *   0.00000000  *
+    13       C         27.19700000  * -22.84000000  *   0.00000000  *
+    14       C         25.88600000  * -23.63300000  *   0.00000000  *
+    15       O         27.17800000  * -21.31200000  *   0.00000000  *
+    16       C         24.55000000  * -22.88500000  *   0.00000000  *
+    17       O         25.91800000  * -25.16200000  *   0.00000000  *
+    18       H         28.48900000  * -21.98500000  *   0.00000000  *
+ 
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM           X           Y           Z
+
+     1         C         31.2130    -25.0660      0.0000
+     2         C         31.2130    -23.5120      0.0000
+     3         N         29.8700    -25.8520      0.0000
+     4         N         32.5560    -25.8330      0.0000
+     5         N         29.8570    -22.7380      0.0000
+     6         C         32.5560    -22.7320      0.0000
+     7         C         28.5150    -25.0790      0.0000
+     8         C         33.8730    -25.0660      0.0000
+     9         C         28.4890    -23.5250      0.0000
+    10         N         33.8730    -23.5120      0.0000
+    11         O         32.5560    -21.2030      0.0000
+    12         N         35.2030    -25.8330      0.0000
+    13         C         27.1970    -22.8400      0.0000
+    14         C         25.8860    -23.6330      0.0000
+    15         O         27.1780    -21.3120      0.0000
+    16         C         24.5500    -22.8850      0.0000
+    17         O         25.9180    -25.1620      0.0000
+    18         H         28.4890    -21.9850      0.0000
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ http://www.springerlink.com/openurl.asp?genre=article&id=doi:10.1007/s00894-012-1667-x
+
+           Empirical Formula: C9 H N5 O3  =    18 atoms
+
+
+          Hydrogen atom 18 is 1.47 Angstroms from the nearest non-hydrogen atom (O15)
+          (Label for atom 18: "")
+
+          (To continue, add "LET" to the keyword line)
+
+ *******************************************************************************
+ *                                                                             *
+ *     Error and normal termination messages reported in this calculation      *
+ *                                                                             *
+ * Hydrogen atom 18 is 1.47 Angstroms from the nearest non-hydrogen atom (O15) *
+ * JOB ENDED NORMALLY                                                          *
+ *                                                                             *
+ *******************************************************************************
+
+
+
+ TOTAL JOB TIME:             0.02 SECONDS
+
+ == MOPAC DONE ==

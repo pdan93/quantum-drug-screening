@@ -1,0 +1,21 @@
+HEADER  data-set: faviparin
+REMARK  MOPAC 2016, Version: 20.079L Date: Mar 22 2020 08:18
+REMARK   3 HET = Not identified; C 5 H 6 N 3 O 2 F  =    17 atoms  res:    1
+HETATM    1  O1  HET A   1       1.353   0.310   0.694  1.00 -0.48      PROT O 
+HETATM    2  C1  HET A   1       0.486  -0.518   1.318  1.00  0.36      PROT C 
+HETATM    3  N1  HET A   1       0.598  -1.790   1.170  1.00 -0.48      PROT N 
+HETATM    4  C2  HET A   1      -0.322  -2.664   1.883  1.00 -0.16      PROT C 
+HETATM    5  C3  HET A   1      -1.089  -1.907   2.950  1.00  0.32      PROT C 
+HETATM    6  F   HET A   1      -1.712  -2.668   3.831  1.00 -0.13      PROT F 
+HETATM    7  N2  HET A   1      -1.170  -0.638   3.127  1.00 -0.38      PROT N 
+HETATM    8  C4  HET A   1      -0.517   0.241   2.170  1.00 -0.10      PROT C 
+HETATM    9  C5  HET A   1      -1.586   0.893   1.259  1.00  0.57      PROT C 
+HETATM   10  O2  HET A   1      -2.760   0.627   1.302  1.00 -0.45      PROT O 
+HETATM   11  N3  HET A   1      -1.083   1.848   0.399  1.00 -0.68      PROT N 
+HETATM   12  H1  HET A   1       1.990  -0.194   0.104  1.00  0.37      PROT H 
+HETATM   13 1H2  HET A   1       0.278  -3.503   2.320  1.00  0.20      PROT H 
+HETATM   14 1H3  HET A   1      -0.099   1.929   0.246  1.00  0.32      PROT H 
+HETATM   15 2H3  HET A   1      -1.693   2.319  -0.240  1.00  0.32      PROT H 
+HETATM   16 2H2  HET A   1      -1.022  -3.140   1.149  1.00  0.19      PROT H 
+HETATM   17  H4  HET A   1      -0.007   1.055   2.767  1.00  0.22      PROT H 
+END

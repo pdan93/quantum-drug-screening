@@ -1,0 +1,21 @@
+HEADER  data-set: pipeline_temp/benserazide
+REMARK  MOPAC 2016, Version: 20.079L Date: Mar 22 2020 14:14 Heat of Formation =     -11.025 Kcal/mol
+HETATM    1  C1  UNK A   2       2.128   1.688   0.042  1.00  0.43      PROT C 
+HETATM    2  C2  UNK A   2       1.583   0.332   0.003  1.00 -0.41      PROT C 
+HETATM    3  C3  UNK A   2       2.642  -0.547  -0.041  1.00  0.15      PROT C 
+HETATM    4  C4  UNK A   2       3.875  -0.419  -0.049  1.00 -0.39      PROT C 
+HETATM    5  C5  UNK A   2       4.739   0.671  -0.015  1.00  0.45      PROT C 
+HETATM    6  C6  UNK A   2       3.704   1.903   0.009  1.00  0.26      PROT C 
+HETATM    7  O1  UNK A   2       5.924   0.840  -0.001  1.00 -0.43      PROT O 
+HETATM    8  O2  UNK A   2       4.142   3.012  -0.007  1.00 -0.34      PROT O 
+HETATM    9  O3  UNK A   2       1.464   2.692   0.098  1.00 -0.43      PROT O 
+HETATM   10  C7  UNK A   2       0.236   0.061   0.019  1.00  0.25      PROT C 
+HETATM   11  N1  UNK A   2      -0.903  -0.155   0.026  1.00  0.07      PROT N 
+HETATM   12  N2  UNK A   2      -2.106  -0.653   0.064  1.00 -0.46      PROT N 
+ATOM     13  C   SER A   1      -3.176   0.198  -0.040  1.00  0.55      PROT C 
+ATOM     14  CA  SER A   1      -4.433  -0.558   0.006  1.00  0.10      PROT C 
+ATOM     15  O   SER A   1      -3.182   1.410  -0.150  1.00 -0.52      PROT O 
+ATOM     16  N   SER A   1      -5.444  -1.114   0.034  1.00 -0.27      PROT N 
+ATOM     17  CB  SER A   1      -5.283  -4.148  -0.009  1.00  0.49      PROT C 
+ATOM     18  OG  SER A   1      -6.120  -4.926   0.009  1.00 -0.49      PROT O 
+END

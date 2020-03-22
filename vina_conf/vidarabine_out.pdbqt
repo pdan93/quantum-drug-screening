@@ -1,0 +1,243 @@
+MODEL 1
+REMARK VINA RESULT:      -4.9      0.000      0.000
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  O1  HET A   1       5.054  -0.312   8.177  1.00 -0.05    -0.281 OA
+HETATM    2  O2  HET A   1       2.426  -0.489  10.510  1.00 -0.08    -0.279 OA
+HETATM    3  O3  HET A   1       2.305   1.892   8.679  1.00 -0.22    -0.281 OA
+HETATM    4  O4  HET A   1       5.146   2.280   5.996  1.00 -0.01    -0.281 OA
+HETATM    5  N1  HET A   1       5.058  -2.049   9.576  1.00 -0.54    -0.267 N 
+HETATM    6  N2  HET A   1       6.597  -3.756   9.675  1.00 -0.48    -0.232 NA
+HETATM    7  N3  HET A   1       3.582  -2.693  11.326  1.00 -0.22    -0.152 NA
+HETATM    8  N4  HET A   1       2.521  -3.943  13.223  1.00 -0.03    -0.170 NA
+HETATM    9  N5  HET A   1       5.759  -6.028  12.206  1.00  0.05    -0.190 NA
+HETATM   10  C1  HET A   1       3.147  -0.160   9.642  1.00  0.27     0.276 A 
+HETATM   11  C2  HET A   1       4.442  -0.932   9.186  1.00  0.38     0.210 A 
+HETATM   12  C3  HET A   1       3.136   1.040   8.677  1.00  0.40     0.264 A 
+HETATM   13  C4  HET A   1       4.307   0.857   7.851  1.00 -0.39     0.186 A 
+HETATM   14  C5  HET A   1       4.774   1.615   6.847  1.00  0.55     0.262 C 
+HETATM   15  C6  HET A   1       4.627  -2.938  10.653  1.00  0.23     0.185 A 
+HETATM   16  C7  HET A   1       6.333  -2.577   8.941  1.00  0.67     0.239 A 
+HETATM   17  C8  HET A   1       5.732  -4.017  10.605  1.00  0.33     0.181 A 
+HETATM   18  C9  HET A   1       5.736  -5.119  11.492  1.00 -0.01     0.123 C 
+HETATM   19  C10 HET A   1       3.066  -3.420  12.344  1.00  0.15     0.208 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.9     12.104     14.198
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  O1  HET A   1       4.484  12.169  11.210  1.00 -0.05    -0.281 OA
+HETATM    2  O2  HET A   1       5.217   9.240   9.405  1.00 -0.08    -0.279 OA
+HETATM    3  O3  HET A   1       2.652   9.128  10.967  1.00 -0.22    -0.281 OA
+HETATM    4  O4  HET A   1       1.645  12.298  13.056  1.00 -0.01    -0.281 OA
+HETATM    5  N1  HET A   1       6.368  12.161  10.016  1.00 -0.54    -0.267 N 
+HETATM    6  N2  HET A   1       7.906  13.862   9.825  1.00 -0.48    -0.232 NA
+HETATM    7  N3  HET A   1       7.370  10.512   8.626  1.00 -0.22    -0.152 NA
+HETATM    8  N4  HET A   1       8.947   9.318   7.084  1.00 -0.03    -0.170 NA
+HETATM    9  N5  HET A   1      10.541  12.912   7.723  1.00  0.05    -0.190 NA
+HETATM   10  C1  HET A   1       4.710  10.046  10.093  1.00  0.27     0.276 A 
+HETATM   11  C2  HET A   1       5.282  11.484  10.391  1.00  0.38     0.210 A 
+HETATM   12  C3  HET A   1       3.407  10.047  10.913  1.00  0.40     0.264 A 
+HETATM   13  C4  HET A   1       3.367  11.348  11.538  1.00 -0.39     0.186 A 
+HETATM   14  C5  HET A   1       2.446  11.876  12.359  1.00  0.55     0.262 C 
+HETATM   15  C6  HET A   1       7.421  11.675   9.127  1.00  0.23     0.185 A 
+HETATM   16  C7  HET A   1       6.680  13.578  10.469  1.00  0.67     0.239 A 
+HETATM   17  C8  HET A   1       8.365  12.896   9.091  1.00  0.33     0.181 A 
+HETATM   18  C9  HET A   1       9.561  12.893   8.334  1.00 -0.01     0.123 C 
+HETATM   19  C10 HET A   1       8.265   9.932   7.794  1.00  0.15     0.208 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.8     10.978     13.239
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  O1  HET A   1       6.278  11.221  12.177  1.00 -0.05    -0.281 OA
+HETATM    2  O2  HET A   1       6.359  12.481   8.893  1.00 -0.08    -0.279 OA
+HETATM    3  O3  HET A   1       7.876  14.131  10.896  1.00 -0.22    -0.281 OA
+HETATM    4  O4  HET A   1       7.913  12.900  14.626  1.00 -0.01    -0.281 OA
+HETATM    5  N1  HET A   1       5.182  10.059  10.620  1.00 -0.54    -0.267 N 
+HETATM    6  N2  HET A   1       3.991   8.112  10.913  1.00 -0.48    -0.232 NA
+HETATM    7  N3  HET A   1       4.885  10.403   8.286  1.00 -0.22    -0.152 NA
+HETATM    8  N4  HET A   1       4.173  10.125   5.897  1.00 -0.03    -0.170 NA
+HETATM    9  N5  HET A   1       2.622   7.035   7.874  1.00  0.05    -0.190 NA
+HETATM   10  C1  HET A   1       6.515  12.322  10.047  1.00  0.27     0.276 A 
+HETATM   11  C2  HET A   1       5.932  11.127  10.893  1.00  0.38     0.210 A 
+HETATM   12  C3  HET A   1       7.276  13.127  11.117  1.00  0.40     0.264 A 
+HETATM   13  C4  HET A   1       7.072  12.392  12.344  1.00 -0.39     0.186 A 
+HETATM   14  C5  HET A   1       7.518  12.652  13.582  1.00  0.55     0.262 C 
+HETATM   15  C6  HET A   1       4.654   9.691   9.308  1.00  0.23     0.185 A 
+HETATM   16  C7  HET A   1       4.755   9.037  11.661  1.00  0.67     0.239 A 
+HETATM   17  C8  HET A   1       3.892   8.392   9.650  1.00  0.33     0.181 A 
+HETATM   18  C9  HET A   1       3.196   7.654   8.663  1.00 -0.01     0.123 C 
+HETATM   19  C10 HET A   1       4.465  10.188   7.018  1.00  0.15     0.208 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.8     10.245     12.661
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  O1  HET A   1       5.237  11.387  10.385  1.00 -0.05    -0.281 OA
+HETATM    2  O2  HET A   1       4.293   8.019  10.762  1.00 -0.08    -0.279 OA
+HETATM    3  O3  HET A   1       6.086   9.059  12.938  1.00 -0.22    -0.281 OA
+HETATM    4  O4  HET A   1       7.259  12.800  12.709  1.00 -0.01    -0.281 OA
+HETATM    5  N1  HET A   1       3.903  10.529   8.817  1.00 -0.54    -0.267 N 
+HETATM    6  N2  HET A   1       3.062  11.599   6.962  1.00 -0.48    -0.232 NA
+HETATM    7  N3  HET A   1       2.953   8.367   8.538  1.00 -0.22    -0.152 NA
+HETATM    8  N4  HET A   1       1.664   6.418   7.626  1.00 -0.03    -0.170 NA
+HETATM    9  N5  HET A   1       1.057   9.425   5.085  1.00  0.05    -0.190 NA
+HETATM   10  C1  HET A   1       4.767   9.083  10.913  1.00  0.27     0.276 A 
+HETATM   11  C2  HET A   1       4.572  10.316   9.950  1.00  0.38     0.210 A 
+HETATM   12  C3  HET A   1       5.687   9.671  11.999  1.00  0.40     0.264 A 
+HETATM   13  C4  HET A   1       5.907  11.039  11.593  1.00 -0.39     0.186 A 
+HETATM   14  C5  HET A   1       6.633  12.001  12.183  1.00  0.55     0.262 C 
+HETATM   15  C6  HET A   1       3.086   9.549   8.104  1.00  0.23     0.185 A 
+HETATM   16  C7  HET A   1       3.888  11.857   8.080  1.00  0.67     0.239 A 
+HETATM   17  C8  HET A   1       2.596  10.390   6.905  1.00  0.33     0.181 A 
+HETATM   18  C9  HET A   1       1.749   9.848   5.909  1.00 -0.01     0.123 C 
+HETATM   19  C10 HET A   1       2.234   7.361   7.988  1.00  0.15     0.208 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.8      2.328      3.673
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  O1  HET A   1       6.919   1.031   7.772  1.00 -0.05    -0.281 OA
+HETATM    2  O2  HET A   1       3.689   2.424   7.684  1.00 -0.08    -0.279 OA
+HETATM    3  O3  HET A   1       5.807   4.109   6.375  1.00 -0.22    -0.281 OA
+HETATM    4  O4  HET A   1       9.486   2.736   6.363  1.00 -0.01    -0.281 OA
+HETATM    5  N1  HET A   1       5.280  -0.151   8.717  1.00 -0.54    -0.267 N 
+HETATM    6  N2  HET A   1       5.456  -2.197   9.755  1.00 -0.48    -0.232 NA
+HETATM    7  N3  HET A   1       2.951   0.261   8.963  1.00 -0.22    -0.152 NA
+HETATM    8  N4  HET A   1       0.529   0.024   9.570  1.00 -0.03    -0.170 NA
+HETATM    9  N5  HET A   1       2.331  -3.258  10.930  1.00  0.05    -0.190 NA
+HETATM   10  C1  HET A   1       4.841   2.233   7.554  1.00  0.27     0.276 A 
+HETATM   11  C2  HET A   1       5.620   0.961   8.066  1.00  0.38     0.210 A 
+HETATM   12  C3  HET A   1       5.968   3.052   6.898  1.00  0.40     0.264 A 
+HETATM   13  C4  HET A   1       7.157   2.254   7.082  1.00 -0.39     0.186 A 
+HETATM   14  C5  HET A   1       8.420   2.499   6.701  1.00  0.55     0.262 C 
+HETATM   15  C6  HET A   1       3.937  -0.507   9.170  1.00  0.23     0.185 A 
+HETATM   16  C7  HET A   1       6.265  -1.245   9.095  1.00  0.67     0.239 A 
+HETATM   17  C8  HET A   1       4.202  -1.876   9.835  1.00  0.33     0.181 A 
+HETATM   18  C9  HET A   1       3.163  -2.627  10.435  1.00 -0.01     0.123 C 
+HETATM   19  C10 HET A   1       1.661   0.064   9.322  1.00  0.15     0.208 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.7      3.843      6.553
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  O1  HET A   1       6.072  -3.009   8.621  1.00 -0.05    -0.281 OA
+HETATM    2  O2  HET A   1       3.751  -2.963   5.978  1.00 -0.08    -0.279 OA
+HETATM    3  O3  HET A   1       4.674  -5.710   6.774  1.00 -0.22    -0.281 OA
+HETATM    4  O4  HET A   1       7.270  -5.987   9.709  1.00 -0.01    -0.281 OA
+HETATM    5  N1  HET A   1       5.327  -1.012   7.963  1.00 -0.54    -0.267 N 
+HETATM    6  N2  HET A   1       5.905   1.044   8.819  1.00 -0.48    -0.232 NA
+HETATM    7  N3  HET A   1       3.788  -0.361   6.271  1.00 -0.22    -0.152 NA
+HETATM    8  N4  HET A   1       2.341   1.013   4.752  1.00 -0.03    -0.170 NA
+HETATM    9  N5  HET A   1       4.209   3.603   7.133  1.00  0.05    -0.190 NA
+HETATM   10  C1  HET A   1       4.509  -3.299   6.811  1.00  0.27     0.276 A 
+HETATM   11  C2  HET A   1       5.282  -2.333   7.786  1.00  0.38     0.210 A 
+HETATM   12  C3  HET A   1       5.017  -4.681   7.262  1.00  0.40     0.264 A 
+HETATM   13  C4  HET A   1       5.939  -4.399   8.338  1.00 -0.39     0.186 A 
+HETATM   14  C5  HET A   1       6.665  -5.243   9.087  1.00  0.55     0.262 C 
+HETATM   15  C6  HET A   1       4.575  -0.016   7.202  1.00  0.23     0.185 A 
+HETATM   16  C7  HET A   1       6.188  -0.328   9.011  1.00  0.67     0.239 A 
+HETATM   17  C8  HET A   1       5.053   1.290   7.872  1.00  0.33     0.181 A 
+HETATM   18  C9  HET A   1       4.581   2.558   7.456  1.00 -0.01     0.123 C 
+HETATM   19  C10 HET A   1       3.033   0.444   5.488  1.00  0.15     0.208 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.7      3.073      6.691
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  O1  HET A   1       3.573  -2.252  10.460  1.00 -0.05    -0.281 OA
+HETATM    2  O2  HET A   1       6.596  -1.537   8.807  1.00 -0.08    -0.279 OA
+HETATM    3  O3  HET A   1       6.532  -4.209  10.182  1.00 -0.22    -0.281 OA
+HETATM    4  O4  HET A   1       3.247  -5.205  12.089  1.00 -0.01    -0.281 OA
+HETATM    5  N1  HET A   1       3.712  -0.290   9.406  1.00 -0.54    -0.267 N 
+HETATM    6  N2  HET A   1       2.093   1.339   9.273  1.00 -0.48    -0.232 NA
+HETATM    7  N3  HET A   1       5.454   0.726   8.147  1.00 -0.22    -0.152 NA
+HETATM    8  N4  HET A   1       6.774   2.348   6.762  1.00 -0.03    -0.170 NA
+HETATM    9  N5  HET A   1       3.238   4.067   7.399  1.00  0.05    -0.190 NA
+HETATM   10  C1  HET A   1       5.743  -2.051   9.431  1.00  0.27     0.276 A 
+HETATM   11  C2  HET A   1       4.324  -1.432   9.723  1.00  0.38     0.210 A 
+HETATM   12  C3  HET A   1       5.653  -3.408  10.154  1.00  0.40     0.264 A 
+HETATM   13  C4  HET A   1       4.329  -3.428  10.731  1.00 -0.39     0.186 A 
+HETATM   14  C5  HET A   1       3.730  -4.378  11.466  1.00  0.55     0.262 C 
+HETATM   15  C6  HET A   1       4.278   0.798   8.613  1.00  0.23     0.185 A 
+HETATM   16  C7  HET A   1       2.296   0.058   9.835  1.00  0.67     0.239 A 
+HETATM   17  C8  HET A   1       3.104   1.801   8.606  1.00  0.33     0.181 A 
+HETATM   18  C9  HET A   1       3.190   3.046   7.938  1.00 -0.01     0.123 C 
+HETATM   19  C10 HET A   1       6.105   1.649   7.401  1.00  0.15     0.208 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.7     10.501     12.460
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  O1  HET A   1       6.571  12.046   9.524  1.00 -0.05    -0.281 OA
+HETATM    2  O2  HET A   1       5.777  10.428  12.546  1.00 -0.08    -0.279 OA
+HETATM    3  O3  HET A   1       7.501  12.870  12.858  1.00 -0.22    -0.281 OA
+HETATM    4  O4  HET A   1       8.505  14.827   9.605  1.00 -0.01    -0.281 OA
+HETATM    5  N1  HET A   1       5.291  10.224   9.391  1.00 -0.54    -0.267 N 
+HETATM    6  N2  HET A   1       4.420   9.267   7.488  1.00 -0.48    -0.232 NA
+HETATM    7  N3  HET A   1       4.443   8.743  11.048  1.00 -0.22    -0.152 NA
+HETATM    8  N4  HET A   1       3.253   6.850  12.182  1.00 -0.03    -0.170 NA
+HETATM    9  N5  HET A   1       2.533   6.427   8.287  1.00  0.05    -0.190 NA
+HETATM   10  C1  HET A   1       6.202  11.168  11.737  1.00  0.27     0.276 A 
+HETATM   11  C2  HET A   1       5.959  11.062  10.184  1.00  0.38     0.210 A 
+HETATM   12  C3  HET A   1       7.083  12.426  11.836  1.00  0.40     0.264 A 
+HETATM   13  C4  HET A   1       7.244  12.869  10.471  1.00 -0.39     0.186 A 
+HETATM   14  C5  HET A   1       7.921  13.922   9.987  1.00  0.55     0.262 C 
+HETATM   15  C6  HET A   1       4.526   9.056   9.822  1.00  0.23     0.185 A 
+HETATM   16  C7  HET A   1       5.223  10.363   7.879  1.00  0.67     0.239 A 
+HETATM   17  C8  HET A   1       4.010   8.523   8.468  1.00  0.33     0.181 A 
+HETATM   18  C9  HET A   1       3.197   7.368   8.382  1.00 -0.01     0.123 C 
+HETATM   19  C10 HET A   1       3.776   7.699  11.590  1.00  0.15     0.208 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.6      1.634      3.220
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  O1  HET A   1       3.670   0.940   8.789  1.00 -0.05    -0.281 OA
+HETATM    2  O2  HET A   1       6.638  -0.942   8.957  1.00 -0.08    -0.279 OA
+HETATM    3  O3  HET A   1       6.934   1.730   7.611  1.00 -0.22    -0.281 OA
+HETATM    4  O4  HET A   1       3.737   3.992   7.317  1.00 -0.01    -0.281 OA
+HETATM    5  N1  HET A   1       3.548  -1.057   9.775  1.00 -0.54    -0.267 N 
+HETATM    6  N2  HET A   1       1.689  -2.043  10.705  1.00 -0.48    -0.232 NA
+HETATM    7  N3  HET A   1       5.179  -2.740  10.179  1.00 -0.22    -0.152 NA
+HETATM    8  N4  HET A   1       6.299  -4.859  10.916  1.00 -0.03    -0.170 NA
+HETATM    9  N5  HET A   1       2.485  -5.190  12.017  1.00  0.05    -0.190 NA
+HETATM   10  C1  HET A   1       5.843  -0.101   8.752  1.00  0.27     0.276 A 
+HETATM   11  C2  HET A   1       4.321  -0.164   9.157  1.00  0.38     0.210 A 
+HETATM   12  C3  HET A   1       5.934   1.278   8.072  1.00  0.40     0.264 A 
+HETATM   13  C4  HET A   1       4.594   1.812   8.145  1.00 -0.39     0.186 A 
+HETATM   14  C5  HET A   1       4.115   2.985   7.703  1.00  0.55     0.262 C 
+HETATM   15  C6  HET A   1       3.977  -2.355  10.291  1.00  0.23     0.185 A 
+HETATM   16  C7  HET A   1       2.066  -0.852  10.042  1.00  0.67     0.239 A 
+HETATM   17  C8  HET A   1       2.652  -2.893  10.875  1.00  0.33     0.181 A 
+HETATM   18  C9  HET A   1       2.573  -4.160  11.502  1.00 -0.01     0.123 C 
+HETATM   19  C10 HET A   1       5.715  -3.907  10.606  1.00  0.15     0.208 C 
+ENDROOT
+TORSDOF 0
+ENDMDL

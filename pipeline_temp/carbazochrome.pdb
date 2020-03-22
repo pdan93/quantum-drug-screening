@@ -1,0 +1,21 @@
+HEADER  data-set: pipeline_temp/carbazochrome
+REMARK  MOPAC 2016, Version: 20.079L Date: Mar 22 2020 14:15 Heat of Formation =     223.776 Kcal/mol
+ATOM      1  O1  UNK A   1       2.417  -1.809   0.500  1.00 -0.37      PROT O 
+ATOM      2  O2  UNK A   1       2.614   5.201  -0.126  1.00 -0.18      PROT O 
+ATOM      3  O3  UNK A   1      -2.286  -2.911  -0.229  1.00 -0.20      PROT O 
+ATOM      4  N1  UNK A   1       4.702   0.195  -0.454  1.00 -0.64      PROT N 
+ATOM      5  N2  UNK A   1      -2.209  -0.979   0.920  1.00 -0.01      PROT N 
+ATOM      6  N3  UNK A   1      -2.893  -1.929   0.635  1.00  0.10      PROT N 
+ATOM      7  N4  UNK A   1      -3.845  -4.738  -0.814  1.00 -0.27      PROT N 
+ATOM      8  C1  UNK A   1       1.438   0.310   0.139  1.00 -0.35      PROT C 
+ATOM      9  C2  UNK A   1       1.707   1.609   0.067  1.00  0.46      PROT C 
+ATOM     10  C3  UNK A   1       2.509  -0.719  -0.005  1.00  0.31      PROT C 
+ATOM     11  C4  UNK A   1      -0.962  -0.608   0.604  1.00 -0.10      PROT C 
+ATOM     12  C5  UNK A   1       0.155  -0.165   0.393  1.00  0.13      PROT C 
+ATOM     13  C6  UNK A   1       2.320   4.088  -0.068  1.00  0.63      PROT C 
+ATOM     14  C7  UNK A   1       2.013   2.829  -0.003  1.00 -0.58      PROT C 
+ATOM     15  CA  UNK A   1       3.620  -0.396  -0.967  1.00  0.35      PROT C 
+ATOM     16  C8  UNK A   1       5.748   0.704  -0.128  1.00  0.45      PROT C 
+ATOM     17  C9  UNK A   1      -3.152  -3.863  -0.508  1.00  0.27      PROT C 
+TER      18      UNK A   1
+END

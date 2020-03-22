@@ -1,0 +1,21 @@
+HEADER  data-set: pipeline_temp/pemirolast
+REMARK  MOPAC 2016, Version: 20.079L Date: Mar 22 2020 14:14
+REMARK   3 HET = Not identified; C 10 N 6 O         =    17 atoms  res:    1
+HETATM    1  O   HET A   1       8.069  -3.106   0.024  1.00  0.13      PROT O 
+HETATM    2  N1  HET A   1      10.636  -0.742  -0.034  1.00 -0.75      PROT N 
+HETATM    3  N2  HET A   1       8.724   0.856  -0.010  1.00 -0.68      PROT N 
+HETATM    4  N3  HET A   1       4.534  -2.037   0.017  1.00 -0.16      PROT N 
+HETATM    5  N4  HET A   1       4.546   0.315  -0.008  1.00 -0.08      PROT N 
+HETATM    6  N5  HET A   1       3.386  -1.623   0.014  1.00  0.17      PROT N 
+HETATM    7  N6  HET A   1       3.396  -0.094  -0.003  1.00  0.14      PROT N 
+HETATM    8  C1  HET A   1      10.083   0.443  -0.013  1.00  0.61      PROT C 
+HETATM    9  C2  HET A   1      10.569   1.896   0.003  1.00 -0.19      PROT C 
+HETATM   10  C3  HET A   1       7.505  -2.123   0.014  1.00  0.54      PROT C 
+HETATM   11  C4  HET A   1       6.847  -0.902   0.002  1.00 -0.47      PROT C 
+HETATM   12  C5  HET A   1      11.428  -1.708  -0.056  1.00  0.82      PROT C 
+HETATM   13  C6  HET A   1      11.744   2.418   0.021  1.00 -0.50      PROT C 
+HETATM   14  C7  HET A   1       7.421   0.496  -0.011  1.00  0.52      PROT C 
+HETATM   15  C8  HET A   1      12.931   3.037   0.041  1.00  0.71      PROT C 
+HETATM   16  C9  HET A   1       9.077   2.357  -0.005  1.00  0.74      PROT C 
+HETATM   17  C10 HET A   1       5.488  -0.861   0.003  1.00  0.41      PROT C 
+END

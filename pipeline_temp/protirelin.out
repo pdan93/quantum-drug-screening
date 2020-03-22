@@ -1,0 +1,128 @@
+ *******************************************************************************
+ ** Site#: 4000  E-mail support:    MrMOPAC@ATT.net    Version 20.079L 64BITS **
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 20.079L, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web: HTTP://OpenMOPAC.net. Days left: 182**
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Sun Mar 22 13:39:53 2020  *
+ *  PM7        - The PM7 Hamiltonian to be used
+ *  PDBOUT     - PRINT GEOMETY IN PDB FORMAT
+ *  MOZYME     - USE LOCALIZED M.O.s IN SOLVING THE SCF EQUATIONS
+ *  RAPID      - IN MOZYME SCF, USE ATOMS BEING OPTIMIZED ONLY
+ *  RESIDUES   - DETERMINE THE SEQUENCE OF RESIDUES
+ *  XYZ        - CARTESIAN COORDINATE SYSTEM TO BE USED
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY  7200.000 SECONDS
+ *  LOG        - GENERATE A LOG FILE
+ *******************************************************************************
+XYZ RAPID MOZYME PM7 LOG PDBOUT
+ candidates/protirelin.pdb
+
+   ATOM   CHEMICAL          X               Y               Z
+  NUMBER   SYMBOL      (ANGSTROMS)     (ANGSTROMS)     (ANGSTROMS)
+ 
+     1       N         -2.97800000  *  -3.31700000  *   0.00000000  *
+     2       C         -2.65800000  *  -1.81000000  *   0.00000000  *
+     3       O         -3.80300000  *  -0.78000000  *   0.00000000  *
+     4       C         -1.19400000  *  -1.33400000  *   0.00000000  *
+     5       C         -0.71800000  *   0.13000000  *   0.00000000  *
+     6       C          0.82200000  *   0.13000000  *   0.00000000  *
+     7       C          1.29800000  *  -1.33400000  *   0.00000000  *
+     8       N          0.05200000  *  -2.24000000  *   0.00000000  *
+     9       C          0.05200000  *  -3.78000000  *   0.00000000  *
+    10       O         -1.28100000  *  -4.55000000  *   0.00000000  *
+    11       C          1.38600000  *  -4.55000000  *   0.00000000  *
+    12       C          1.38600000  *  -6.09000000  *   0.00000000  *
+    13       C          0.05200000  *  -6.86000000  *   0.00000000  *
+    14       C         -0.10900000  *  -8.39100000  *   0.00000000  *
+    15       N         -1.61500000  *  -8.71100000  *   0.00000000  *
+    16       C         -2.38500000  *  -7.37800000  *   0.00000000  *
+    17       N         -1.35500000  *  -6.23300000  *   0.00000000  *
+    18       N          2.72000000  *  -3.78000000  *   0.00000000  *
+    19       C          4.05300000  *  -4.55000000  *   0.00000000  *
+    20       O          4.05300000  *  -6.09000000  *   0.00000000  *
+    21       C          5.38700000  *  -3.78000000  *   0.00000000  *
+    22       C          5.54800000  *  -2.24800000  *   0.00000000  *
+    23       C          7.05400000  *  -1.92800000  *   0.00000000  *
+    24       C          7.82400000  *  -3.26100000  *   0.00000000  *
+    25       O          9.35600000  *  -3.42300000  *   0.00000000  *
+    26       N          6.79400000  *  -4.40600000  *   0.00000000  *
+    27       H         -2.60000000  *  -0.70800000  *   0.00000000  *
+    28       H          2.72000000  *  -5.32000000  *   0.00000000  *
+    29       H          3.88100000  *  -3.45900000  *   0.00000000  *
+ 
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM           X           Y           Z
+
+     1         N         -2.9780     -3.3170      0.0000
+     2         C         -2.6580     -1.8100      0.0000
+     3         O         -3.8030     -0.7800      0.0000
+     4         C         -1.1940     -1.3340      0.0000
+     5         C         -0.7180      0.1300      0.0000
+     6         C          0.8220      0.1300      0.0000
+     7         C          1.2980     -1.3340      0.0000
+     8         N          0.0520     -2.2400      0.0000
+     9         C          0.0520     -3.7800      0.0000
+    10         O         -1.2810     -4.5500      0.0000
+    11         C          1.3860     -4.5500      0.0000
+    12         C          1.3860     -6.0900      0.0000
+    13         C          0.0520     -6.8600      0.0000
+    14         C         -0.1090     -8.3910      0.0000
+    15         N         -1.6150     -8.7110      0.0000
+    16         C         -2.3850     -7.3780      0.0000
+    17         N         -1.3550     -6.2330      0.0000
+    18         N          2.7200     -3.7800      0.0000
+    19         C          4.0530     -4.5500      0.0000
+    20         O          4.0530     -6.0900      0.0000
+    21         C          5.3870     -3.7800      0.0000
+    22         C          5.5480     -2.2480      0.0000
+    23         C          7.0540     -1.9280      0.0000
+    24         C          7.8240     -3.2610      0.0000
+    25         O          9.3560     -3.4230      0.0000
+    26         N          6.7940     -4.4060      0.0000
+    27         H         -2.6000     -0.7080      0.0000
+    28         H          2.7200     -5.3200      0.0000
+    29         H          3.8810     -3.4590      0.0000
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ http://www.springerlink.com/openurl.asp?genre=article&id=doi:10.1007/s00894-012-1667-x
+
+           Empirical Formula: C16 H3 N6 O4  =    29 atoms
+
+ Hydrogen atom 27 has covalent bonds to  C2 and  O3
+                         (Keeping bond to  C2)
+
+          Hydrogen atom 28 is 1.54 Angstroms from the nearest non-hydrogen atom (O20)
+          (Label for atom 28: "")
+
+          (To continue, add "LET" to the keyword line)
+ Hydrogen atom 29 has covalent bonds to  N18 and  C19
+                         (Keeping bond to  C19)
+
+ *******************************************************************************
+ *                                                                             *
+ *     Error and normal termination messages reported in this calculation      *
+ *                                                                             *
+ * Hydrogen atom 28 is 1.54 Angstroms from the nearest non-hydrogen atom (O20) *
+ * JOB ENDED NORMALLY                                                          *
+ *                                                                             *
+ *******************************************************************************
+
+
+
+ TOTAL JOB TIME:             0.03 SECONDS
+
+ == MOPAC DONE ==

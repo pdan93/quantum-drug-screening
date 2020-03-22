@@ -1,0 +1,44 @@
+HEADER    PROTEIN                                 16-DEC-15   NONE
+TITLE     NULL                                                        
+COMPND    NULL                                                        
+SOURCE    NULL                                                        
+KEYWDS    NULL                                                        
+EXPDTA    NULL                                                        
+AUTHOR    Marvin                                                      
+REVDAT   1   16-DEC-15         0                                  
+HETATM    1  O   UNK     0       4.765  -2.528   0.000  0.00  0.00           O+0
+HETATM    2  O   UNK     0      -1.183   1.729   0.000  0.00  0.00           O+0
+HETATM    3  O   UNK     0      -3.852  -2.902   0.000  0.00  0.00           O+0
+HETATM    4  N   UNK     0       4.288   1.427   0.000  0.00  0.00           N+0
+HETATM    5  N   UNK     0      -1.183  -1.355   0.000  0.00  0.00           N+0
+HETATM    6  N   UNK     0      -2.523  -0.586   0.000  0.00  0.00           N+0
+HETATM    7  N   UNK     0      -5.191  -0.586   0.000  0.00  0.00           N+0
+HETATM    8  C   UNK     0       2.814  -0.586   0.000  0.00  0.00           C+0
+HETATM    9  C   UNK     0       2.814   0.950   0.000  0.00  0.00           C+0
+HETATM   10  C   UNK     0       4.288  -1.064   0.000  0.00  0.00           C+0
+HETATM   11  C   UNK     0       0.145  -0.586   0.000  0.00  0.00           C+0
+HETATM   12  C   UNK     0       1.485  -1.355   0.000  0.00  0.00           C+0
+HETATM   13  C   UNK     0       0.145   0.950   0.000  0.00  0.00           C+0
+HETATM   14  C   UNK     0       1.485   1.729   0.000  0.00  0.00           C+0
+HETATM   15  C   UNK     0       5.191   0.182   0.000  0.00  0.00           C+0
+HETATM   16  C   UNK     0       4.755   2.902   0.000  0.00  0.00           C+0
+HETATM   17  C   UNK     0      -3.852  -1.365   0.000  0.00  0.00           C+0
+CONECT    1   10                                                            
+CONECT    2   13                                                            
+CONECT    3   17                                                            
+CONECT    4    9   15   16                                                  
+CONECT    5    6   11                                                       
+CONECT    6    5   17                                                       
+CONECT    7   17                                                            
+CONECT    8    9   10   12                                                  
+CONECT    9    4    8   14                                                  
+CONECT   10    1    8   15                                                  
+CONECT   11    5   12   13                                                  
+CONECT   12    8   11                                                       
+CONECT   13    2   11   14                                                  
+CONECT   14    9   13                                                       
+CONECT   15    4   10                                                       
+CONECT   16    4                                                            
+CONECT   17    3    6    7                                                  
+MASTER        0    0    0    0    0    0    0    0   17    0   36    0
+END

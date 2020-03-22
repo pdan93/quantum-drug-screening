@@ -1,0 +1,12 @@
+receptor = vina_conf/target.pdbqt
+ligand = vina_conf/vidarabine.pdbqt
+
+center_x = 0
+center_y = 0
+center_z = 0
+
+size_x = 30
+size_y = 30
+size_z = 30
+
+exhaustiveness = 8

@@ -1,0 +1,27 @@
+REMARK  17 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O16_44 
+REMARK    2  A    between atoms: C1_1  and  C2_2 
+REMARK    3  A    between atoms: C2_2  and  C3_3 
+REMARK    4  A    between atoms: C8_8  and  N_30 
+REMARK    5  A    between atoms: C9_9  and  O15_42 
+REMARK    6  A    between atoms: C11_15  and  C12_16 
+REMARK       I    between atoms: C13_17  and  N_30 
+REMARK    7  A    between atoms: C15_19  and  O12_38 
+REMARK    8  A    between atoms: C15_19  and  O10_36 
+REMARK    9  A    between atoms: C16_20  and  C17_21 
+REMARK   10  A    between atoms: C17_21  and  C18_22 
+REMARK   11  A    between atoms: C18_22  and  C19_23 
+REMARK   12  A    between atoms: C19_23  and  O12_38 
+REMARK   13  A    between atoms: C24_28  and  O10_36 
+REMARK   14  A    between atoms: C25_29  and  C32_53 
+REMARK   15  A    between atoms: C26_41  and  O15_42 
+REMARK   16  A    between atoms: C27_43  and  O16_44 
+REMARK   17  A    between atoms: C30_49  and  C31_51 
+ROOT
+HETATM    1  C4  HET A   1      41.971  19.158  35.805  1.00  0.46     0.246 C 
+HETATM    2  C5  HET A   1      42.501  20.010  36.575  1.00 -0.78    -0.118 C 
+HETATM    3  C6  HET A   1      42.925  20.968  37.602  1.00  0.01     0.079 C 
+HETATM    4  O4  HET A   1      41.988  19.270  34.455  1.00 -0.68    -0.206 OA
+ENDROOT
+TORSDOF 17

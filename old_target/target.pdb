@@ -1,0 +1,34 @@
+HEADER  data-set: covid_residue
+REMARK  MOPAC 2016, Version: 20.079L Date: Mar 22 2020 08:20
+REMARK   3 NAG = N-Acetyl-D-glucosamine                            res:    1
+HETATM    1  O1  NAG A   1       2.456   0.607  -1.579  1.00 -0.53      PROT O 
+HETATM    2  C1  NAG A   1       2.867   0.398  -0.457  1.00  0.62      PROT C 
+HETATM    3  N   NAG A   1       2.276   1.042   0.621  1.00 -0.62      PROT N 
+HETATM    4  C2  NAG A   1       1.233   2.027   0.370  1.00 -0.06      PROT C 
+HETATM    5 1H2  NAG A   1       0.542   1.655  -0.435  1.00  0.19      PROT H 
+HETATM    6  C3  NAG A   1       1.876   3.366  -0.082  1.00  0.07      PROT C 
+HETATM    7 1H3  NAG A   1       2.516   3.235  -0.983  1.00  0.16      PROT H 
+HETATM    8  O2  NAG A   1       0.833   4.281  -0.378  1.00 -0.59      PROT O 
+HETATM    9  C4  NAG A   1       2.652   4.016   1.078  1.00  0.06      PROT C 
+HETATM   10  H4  NAG A   1       3.610   3.475   1.261  1.00  0.16      PROT H 
+HETATM   11  O3  NAG A   1       3.080   5.310   0.722  1.00 -0.54      PROT O 
+HETATM   12  C5  NAG A   1       1.784   4.095   2.359  1.00  0.02      PROT C 
+HETATM   13 1H5  NAG A   1       0.939   4.807   2.231  1.00  0.16      PROT H 
+HETATM   14  O4  NAG A   1       1.286   2.805   2.657  1.00 -0.45      PROT O 
+HETATM   15  C6  NAG A   1       0.416   2.277   1.678  1.00  0.34      PROT C 
+HETATM   16 1H6  NAG A   1      -0.005   1.373   2.164  1.00  0.16      PROT H 
+HETATM   17  O5  NAG A   1      -0.650   3.125   1.417  1.00 -0.56      PROT O 
+HETATM   18  C7  NAG A   1       2.638   4.495   3.579  1.00 -0.02      PROT C 
+HETATM   19  O6  NAG A   1       3.238   5.751   3.344  1.00 -0.55      PROT O 
+HETATM   20  C8  NAG A   1       4.008  -0.519  -0.131  1.00 -0.53      PROT C 
+HETATM   21  H   NAG A   1       2.632   0.982   1.563  1.00  0.33      PROT H 
+HETATM   22 2H2  NAG A   1       0.477   4.150  -1.284  1.00  0.35      PROT H 
+HETATM   23 2H3  NAG A   1       2.325   5.844   0.376  1.00  0.34      PROT H 
+HETATM   24 2H5  NAG A   1      -0.362   3.845   0.795  1.00  0.35      PROT H 
+HETATM   25 1H7  NAG A   1       2.021   4.636   4.485  1.00  0.15      PROT H 
+HETATM   26 2H7  NAG A   1       3.432   3.756   3.790  1.00  0.12      PROT H 
+HETATM   27 2H6  NAG A   1       3.477   5.803   2.386  1.00  0.34      PROT H 
+HETATM   28 1H8  NAG A   1       3.890  -1.049   0.821  1.00  0.17      PROT H 
+HETATM   29 2H8  NAG A   1       4.116  -1.282  -0.921  1.00  0.19      PROT H 
+HETATM   30 3H8  NAG A   1       4.955   0.039  -0.100  1.00  0.18      PROT H 
+END

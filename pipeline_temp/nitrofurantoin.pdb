@@ -1,0 +1,21 @@
+HEADER  data-set: pipeline_temp/nitrofurantoin
+REMARK  MOPAC 2016, Version: 20.079L Date: Mar 22 2020 14:15 Heat of Formation =     174.451 Kcal/mol
+ATOM      1  C1  UNK A   1       5.845   0.871   0.045  1.00  0.62      PROT C 
+ATOM      2  N1  UNK A   1       2.088   0.244  -0.684  1.00 -0.15      PROT N 
+ATOM      3  N2  UNK A   1      -0.143  -1.946   0.770  1.00 -0.14      PROT N 
+ATOM      4  C2  UNK A   1      -0.602  -0.906   0.552  1.00  0.11      PROT C 
+ATOM      5  C3  UNK A   1      -1.140   0.360   0.292  1.00  0.14      PROT C 
+ATOM      6  O1  UNK A   1      -2.560   0.423   0.198  1.00 -0.12      PROT O 
+ATOM      7  C4  UNK A   1      -2.906   1.787  -0.053  1.00  0.03      PROT C 
+ATOM      8  C5  UNK A   1      -1.733   2.456  -0.101  1.00  0.01      PROT C 
+ATOM      9  C6  UNK A   1      -0.739   1.638   0.100  1.00  0.02      PROT C 
+ATOM     10  N3  UNK A   1      -4.307   2.053  -0.175  1.00  0.65      PROT N 
+ATOM     11  O2  UNK A   1      -4.633   3.219  -0.309  1.00 -0.35      PROT O 
+ATOM     12  O3  UNK A   1      -5.068   1.106  -0.134  1.00 -0.34      PROT O 
+ATOM     13  CA  UNK A   1       3.067  -0.316  -0.444  1.00 -0.00      PROT C 
+ATOM     14  C7  UNK A   1       4.290  -1.059  -0.133  1.00  0.65      PROT C 
+ATOM     15  N   UNK A   2       5.428  -0.288   0.079  1.00 -0.60      PROT N 
+ATOM     16  O4  UNK A   1       6.464   1.857   0.080  1.00 -0.24      PROT O 
+ATOM     17  O5  UNK A   1       4.337  -2.252  -0.051  1.00 -0.28      PROT O 
+TER      18      UNK A   1
+END

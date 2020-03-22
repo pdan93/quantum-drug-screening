@@ -1,0 +1,799 @@
+ *******************************************************************************
+ ** Site#: 4000  E-mail support:    MrMOPAC@ATT.net    Version 20.079L 64BITS **
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 20.079L, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web: HTTP://OpenMOPAC.net. Days left: 182**
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Sun Mar 22 14:15:59 2020  *
+ *  PM7        - The PM7 Hamiltonian to be used
+ *  PDBOUT     - PRINT GEOMETY IN PDB FORMAT
+ *  MOZYME     - USE LOCALIZED M.O.s IN SOLVING THE SCF EQUATIONS
+ *  RAPID      - IN MOZYME SCF, USE ATOMS BEING OPTIMIZED ONLY
+ *  RESIDUES   - DETERMINE THE SEQUENCE OF RESIDUES
+ *  XYZ        - CARTESIAN COORDINATE SYSTEM TO BE USED
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY  7200.000 SECONDS
+ *  LOG        - GENERATE A LOG FILE
+ *******************************************************************************
+XYZ RAPID MOZYME PM7 LOG PDBOUT
+ candidates/ligand_6OAI.pdb
+
+   ATOM   CHEMICAL          X               Y               Z
+  NUMBER   SYMBOL      (ANGSTROMS)     (ANGSTROMS)     (ANGSTROMS)
+ 
+     1       C         38.60600000  *  15.49000000  *  37.07000000  *
+     2       C         38.51500000  *  16.91800000  *  37.69200000  *
+     3       C         38.18400000  *  16.82600000  *  39.13600000  *
+     4       C         39.31100000  *  16.10500000  *  39.85300000  *
+     5       C         39.60300000  *  14.67400000  *  39.16800000  *
+     6       C         40.95700000  *  14.16200000  *  39.57600000  *
+     7       C         37.00900000  *  10.76100000  *  41.59500000  *
+     8       C         37.00500000  *  11.77300000  *  40.44000000  *
+     9       C         37.30400000  *  11.11100000  *  39.01300000  *
+    10       C         38.39700000  *  10.05600000  *  39.11000000  *
+    11       O         39.62000000  *  14.70400000  *  37.74200000  *
+    12       O         37.47300000  *  17.58500000  *  37.09300000  *
+    13       O         37.97800000  *  18.17500000  *  39.64900000  *
+    14       O         40.47300000  *  16.92400000  *  39.84700000  *
+    15       C         38.17500000  *   9.19200000  *  40.35100000  *
+    16       C         39.32200000  *   8.24400000  *  40.68200000  *
+    17       C         35.57100000  *  13.81700000  *  40.83800000  *
+    18       C         34.20100000  *  14.45400000  *  40.64500000  *
+    19       C         34.91400000  *  10.19800000  *  45.54300000  *
+    20       C         35.18100000  *  10.76900000  *  44.12700000  *
+    21       C         36.72100000  *  10.76700000  *  43.90700000  *
+    22       C         37.43100000  *  11.40800000  *  45.10100000  *
+    23       C         36.91800000  *  10.81900000  *  46.42000000  *
+    24       C         37.48800000  *  11.53000000  *  47.60900000  *
+    25       C         31.54300000  *   7.92500000  *  48.41200000  *
+    26       C         32.19900000  *   7.26100000  *  47.21000000  *
+    27       C         33.34900000  *   8.02200000  *  46.71800000  *
+    28       C         32.74700000  *   9.42300000  *  46.40600000  *
+    29       C         32.24400000  *  10.09200000  *  47.75600000  *
+    30       N         35.68000000  *  12.48200000  *  40.44400000  *
+    31       O         37.04100000  *  11.50600000  *  42.83800000  *
+    32       O         38.37600000  *   9.19700000  *  37.95000000  *
+    33       O         38.14200000  *   9.97800000  *  41.53200000  *
+    34       O         40.62400000  *   8.87000000  *  40.50500000  *
+    35       O         36.50100000  *  14.47400000  *  41.30700000  *
+    36       O         33.57500000  *  10.34000000  *  45.75900000  *
+    37       O         34.49400000  *   9.90000000  *  43.18400000  *
+    38       O         35.55700000  *  11.04700000  *  46.52100000  *
+    39       O         38.88500000  *  11.56500000  *  47.46300000  *
+    40       O         37.15700000  *  12.80500000  *  45.09700000  *
+    41       C         36.61000000  *  12.58600000  *  37.22900000  *
+    42       O         37.68500000  *  12.14800000  *  38.05200000  *
+    43       C         37.14400000  *  13.74000000  *  36.34500000  *
+    44       O         37.32700000  *  14.89200000  *  37.15000000  *
+    45       C         36.16100000  *  14.10700000  *  35.24700000  *
+    46       O         36.70500000  *  15.18300000  *  34.49700000  *
+    47       C         36.03600000  *  12.94400000  *  34.32900000  *
+    48       O         37.50200000  *  12.66500000  *  33.74900000  *
+    49       C         35.32500000  *  11.80600000  *  35.16200000  *
+    50       O         36.05600000  *  11.46500000  *  36.43800000  *
+    51       C         35.37000000  *  10.50600000  *  34.39100000  *
+    52       O         36.78800000  *  10.08900000  *  34.27000000  *
+    53       C         31.95200000  *  11.61500000  *  47.62100000  *
+    54       O         30.59500000  *   6.96800000  *  48.92600000  *
+    55       O         32.71400000  *   6.13400000  *  47.65600000  *
+    56       O         33.84000000  *   7.21500000  *  45.65500000  *
+    57       O         31.05100000  *   9.35000000  *  48.16300000  *
+    58       O         33.07100000  *  12.38500000  *  48.05600000  *
+ 
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM           X           Y           Z
+
+     1         C         38.6060     15.4900     37.0700
+     2         C         38.5150     16.9180     37.6920
+     3         C         38.1840     16.8260     39.1360
+     4         C         39.3110     16.1050     39.8530
+     5         C         39.6030     14.6740     39.1680
+     6         C         40.9570     14.1620     39.5760
+     7         C         37.0090     10.7610     41.5950
+     8         C         37.0050     11.7730     40.4400
+     9         C         37.3040     11.1110     39.0130
+    10         C         38.3970     10.0560     39.1100
+    11         O         39.6200     14.7040     37.7420
+    12         O         37.4730     17.5850     37.0930
+    13         O         37.9780     18.1750     39.6490
+    14         O         40.4730     16.9240     39.8470
+    15         C         38.1750      9.1920     40.3510
+    16         C         39.3220      8.2440     40.6820
+    17         C         35.5710     13.8170     40.8380
+    18         C         34.2010     14.4540     40.6450
+    19         C         34.9140     10.1980     45.5430
+    20         C         35.1810     10.7690     44.1270
+    21         C         36.7210     10.7670     43.9070
+    22         C         37.4310     11.4080     45.1010
+    23         C         36.9180     10.8190     46.4200
+    24         C         37.4880     11.5300     47.6090
+    25         C         31.5430      7.9250     48.4120
+    26         C         32.1990      7.2610     47.2100
+    27         C         33.3490      8.0220     46.7180
+    28         C         32.7470      9.4230     46.4060
+    29         C         32.2440     10.0920     47.7560
+    30         N         35.6800     12.4820     40.4440
+    31         O         37.0410     11.5060     42.8380
+    32         O         38.3760      9.1970     37.9500
+    33         O         38.1420      9.9780     41.5320
+    34         O         40.6240      8.8700     40.5050
+    35         O         36.5010     14.4740     41.3070
+    36         O         33.5750     10.3400     45.7590
+    37         O         34.4940      9.9000     43.1840
+    38         O         35.5570     11.0470     46.5210
+    39         O         38.8850     11.5650     47.4630
+    40         O         37.1570     12.8050     45.0970
+    41         C         36.6100     12.5860     37.2290
+    42         O         37.6850     12.1480     38.0520
+    43         C         37.1440     13.7400     36.3450
+    44         O         37.3270     14.8920     37.1500
+    45         C         36.1610     14.1070     35.2470
+    46         O         36.7050     15.1830     34.4970
+    47         C         36.0360     12.9440     34.3290
+    48         O         37.5020     12.6650     33.7490
+    49         C         35.3250     11.8060     35.1620
+    50         O         36.0560     11.4650     36.4380
+    51         C         35.3700     10.5060     34.3910
+    52         O         36.7880     10.0890     34.2700
+    53         C         31.9520     11.6150     47.6210
+    54         O         30.5950      6.9680     48.9260
+    55         O         32.7140      6.1340     47.6560
+    56         O         33.8400      7.2150     45.6550
+    57         O         31.0510      9.3500     48.1630
+    58         O         33.0710     12.3850     48.0560
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ http://www.springerlink.com/openurl.asp?genre=article&id=doi:10.1007/s00894-012-1667-x
+
+           Empirical Formula: C32 N O25  =    58 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+   TOPOGRAPHY OF SYSTEM
+
+   ATOM No.                  LABEL                 Atoms connected to this atom
+      1          C (HETATM    1  C1  HET A   1)      11     44      2
+      2          C (HETATM    2  C2  HET A   1)      12      1      3
+      3          C (HETATM    3  C3  HET A   1)      13      2      4
+      4          C (HETATM    4  C4  HET A   1)      14      3      5
+      5          C (HETATM    5  C5  HET A   1)      11      4      6
+      6          C (HETATM    6  C6  HET A   1)       5
+      7          C (HETATM    7  C7  HET A   1)      31     33      8
+      8          C (HETATM    8  C8  HET A   1)      30      7      9
+      9          C (HETATM    9  C9  HET A   1)      42      8     10
+     10          C (HETATM   10  C10 HET A   1)      32      9     15
+     11          O (HETATM   11  O1  HET A   1)       1      5
+     12          O (HETATM   12  O2  HET A   1)       2
+     13          O (HETATM   13  O3  HET A   1)       3
+     14          O (HETATM   14  O4  HET A   1)       4
+     15          C (HETATM   15  C11 HET A   1)      33     10     16
+     16          C (HETATM   16  C12 HET A   1)      34     15
+     17          C (HETATM   17  C13 HET A   1)      35     30     18
+     18          C (HETATM   18  C14 HET A   1)      17
+     19          C (HETATM   19  C15 HET A   1)      36     38     20
+     20          C (HETATM   20  C16 HET A   1)      37     19     21
+     21          C (HETATM   21  C17 HET A   1)      31     20     22
+     22          C (HETATM   22  C18 HET A   1)      40     21     23
+     23          C (HETATM   23  C19 HET A   1)      38     22     24
+     24          C (HETATM   24  C20 HET A   1)      39     23
+     25          C (HETATM   25  C21 HET A   1)      54     57     26
+     26          C (HETATM   26  C22 HET A   1)      55     25     27
+     27          C (HETATM   27  C23 HET A   1)      56     26     28
+     28          C (HETATM   28  C24 HET A   1)      36     27     29
+     29          C (HETATM   29  C25 HET A   1)      57     28     53
+     30          N (HETATM   30  N   HET A   1)       8     17
+     31          O (HETATM   31  O5  HET A   1)       7     21
+     32          O (HETATM   32  O6  HET A   1)      10
+     33          O (HETATM   33  O7  HET A   1)       7     15
+     34          O (HETATM   34  O8  HET A   1)      16
+     35          O (HETATM   35  O9  HET A   1)      17
+     36          O (HETATM   36  O10 HET A   1)      19     28
+     37          O (HETATM   37  O11 HET A   1)      20
+     38          O (HETATM   38  O12 HET A   1)      19     23
+     39          O (HETATM   39  O13 HET A   1)      24
+     40          O (HETATM   40  O14 HET A   1)      22
+     41          C (HETATM   41  C26 HET A   1)      42     50     43
+     42          O (HETATM   42  O15 HET A   1)       9     41
+     43          C (HETATM   43  C27 HET A   1)      44     41     45
+     44          O (HETATM   44  O16 HET A   1)       1     43
+     45          C (HETATM   45  C28 HET A   1)      46     43     47
+     46          O (HETATM   46  O17 HET A   1)      45
+     47          C (HETATM   47  C29 HET A   1)      48     45     49
+     48          O (HETATM   48  O18 HET A   1)      47
+     49          C (HETATM   49  C30 HET A   1)      50     47     51
+     50          O (HETATM   50  O19 HET A   1)      41     49
+     51          C (HETATM   51  C31 HET A   1)      52     49
+     52          O (HETATM   52  O20 HET A   1)      51
+     53          C (HETATM   53  C32 HET A   1)      58     29
+     54          O (HETATM   54  O21 HET A   1)      25
+     55          O (HETATM   55  O22 HET A   1)      26
+     56          O (HETATM   56  O23 HET A   1)      27
+     57          O (HETATM   57  O24 HET A   1)      25     29
+     58          O (HETATM   58  O25 HET A   1)      53
+
+   Ion Atom No.           Label               Charge (Distances are between charged sites predicted by Lewis structure theory)
+ 
+    1   N   30   (HETATM   30  N   HET A   1)   +1  (2.3 Angstroms from anion  O   35, Label: HETATM   35  O9  HET A   1)
+                                                    (3.9 Angstroms from anion  O   37, Label: HETATM   37  O11 HET A   1)
+                                                    (4.9 Angstroms from anion  O   40, Label: HETATM   40  O14 HET A   1)
+                                                    (4.9 Angstroms from anion  O   32, Label: HETATM   32  O6  HET A   1)
+ 
+    1   O   12   (HETATM   12  O2  HET A   1)   -1  (6.4 Angstroms from cation  N   30, Label: HETATM   30  N   HET A   1)
+    2   O   13   (HETATM   13  O3  HET A   1)   -1  (6.2 Angstroms from cation  N   30, Label: HETATM   30  N   HET A   1)
+    3   O   14   (HETATM   14  O4  HET A   1)   -1  (6.6 Angstroms from cation  N   30, Label: HETATM   30  N   HET A   1)
+    4   O   32   (HETATM   32  O6  HET A   1)   -1  (4.9 Angstroms from cation  N   30, Label: HETATM   30  N   HET A   1)
+    5   O   35   (HETATM   35  O9  HET A   1)   -1  (2.3 Angstroms from cation  N   30, Label: HETATM   30  N   HET A   1)
+    6   O   37   (HETATM   37  O11 HET A   1)   -1  (3.9 Angstroms from cation  N   30, Label: HETATM   30  N   HET A   1)
+    7   O   40   (HETATM   40  O14 HET A   1)   -1  (4.9 Angstroms from cation  N   30, Label: HETATM   30  N   HET A   1)
+    8   O   46   (HETATM   46  O17 HET A   1)   -1  (6.6 Angstroms from cation  N   30, Label: HETATM   30  N   HET A   1)
+    9   O   48   (HETATM   48  O18 HET A   1)   -1  (6.9 Angstroms from cation  N   30, Label: HETATM   30  N   HET A   1)
+   10   C   53   (HETATM   53  C32 HET A   1)   -1  (8.1 Angstroms from cation  N   30, Label: HETATM   30  N   HET A   1)
+
+          COMPUTED CHARGE ON SYSTEM: -9
+  
+          BECAUSE KEYWORD "CHARGE" WAS NOT USED, THE COMPUTED CHARGE OF -9 WILL BE USED IN THIS RUN.
+
+          Geometry optimization using L-BFGS
+ CYCLE:     1 TIME:   0.160 TIME LEFT:  2.00D  GRAD.:  1321.414 HEAT:  2145.755
+ CYCLE:     2 TIME:   0.176 TIME LEFT:  2.00D  GRAD.:  1310.544 HEAT:  2128.334
+ CYCLE:     3 TIME:   0.238 TIME LEFT:  2.00D  GRAD.:  4701.128 HEAT:  2531.170
+ CYCLE:     4 TIME:   0.715 TIME LEFT:  2.00D  GRAD.:  1313.520 HEAT:  2128.251
+ CYCLE:     5 TIME:   0.246 TIME LEFT:  2.00D  GRAD.:  4685.609 HEAT:  2523.815
+ CYCLE:     6 TIME:   0.215 TIME LEFT:  2.00D  GRAD.:  1094.380 HEAT:  1763.952
+ CYCLE:     7 TIME:   0.195 TIME LEFT:  2.00D  GRAD.:   615.637 HEAT:  1431.341
+ CYCLE:     8 TIME:   0.395 TIME LEFT:  2.00D  GRAD.:  1318.021 HEAT:  1387.058
+ CYCLE:     9 TIME:   0.227 TIME LEFT:  2.00D  GRAD.:   274.460 HEAT:  1265.588
+ CYCLE:    10 TIME:   0.242 TIME LEFT:  2.00D  GRAD.:   253.452 HEAT:  1240.117
+ CYCLE:    11 TIME:   0.391 TIME LEFT:  2.00D  GRAD.:   433.502 HEAT:  1149.367
+ CYCLE:    12 TIME:   0.309 TIME LEFT:  2.00D  GRAD.:   289.761 HEAT:  1110.462
+ CYCLE:    13 TIME:   0.223 TIME LEFT:  2.00D  GRAD.:   188.246 HEAT:  1093.211
+ CYCLE:    14 TIME:   0.254 TIME LEFT:  2.00D  GRAD.:   195.803 HEAT:  1063.267
+ CYCLE:    15 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:   217.278 HEAT:  1044.018
+ CYCLE:    16 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:   186.725 HEAT:  1023.540
+ CYCLE:    17 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:   185.596 HEAT:  1007.518
+ CYCLE:    18 TIME:   0.320 TIME LEFT:  2.00D  GRAD.:   162.921 HEAT:  993.3709
+ CYCLE:    19 TIME:   0.340 TIME LEFT:  2.00D  GRAD.:   154.786 HEAT:  975.9513
+ CYCLE:    20 TIME:   0.375 TIME LEFT:  2.00D  GRAD.:   238.997 HEAT:  962.0443
+ CYCLE:    21 TIME:   0.348 TIME LEFT:  2.00D  GRAD.:   170.750 HEAT:  946.5544
+ CYCLE:    22 TIME:   0.324 TIME LEFT:  2.00D  GRAD.:   263.171 HEAT:  924.0564
+ CYCLE:    23 TIME:   0.336 TIME LEFT:  2.00D  GRAD.:   291.408 HEAT:  909.5062
+ CYCLE:    24 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:   281.219 HEAT:  887.5132
+ CYCLE:    25 TIME:   0.305 TIME LEFT:  2.00D  GRAD.:   243.378 HEAT:  867.3962
+ CYCLE:    26 TIME:   0.242 TIME LEFT:  2.00D  GRAD.:   154.221 HEAT:  856.5325
+ CYCLE:    27 TIME:   0.316 TIME LEFT:  2.00D  GRAD.:   146.908 HEAT:  845.6087
+ CYCLE:    28 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:   139.949 HEAT:  836.1502
+ CYCLE:    29 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:   132.042 HEAT:  827.9381
+ CYCLE:    30 TIME:   0.262 TIME LEFT:  2.00D  GRAD.:   110.779 HEAT:  818.5426
+ CYCLE:    31 TIME:   0.258 TIME LEFT:  2.00D  GRAD.:   131.372 HEAT:  811.8873
+ CYCLE:    32 TIME:   0.262 TIME LEFT:  2.00D  GRAD.:    95.247 HEAT:  806.4240
+ CYCLE:    33 TIME:   0.254 TIME LEFT:  2.00D  GRAD.:    96.186 HEAT:  800.7690
+ CYCLE:    34 TIME:   0.266 TIME LEFT:  2.00D  GRAD.:   100.607 HEAT:  794.7830
+ CYCLE:    35 TIME:   0.309 TIME LEFT:  2.00D  GRAD.:   107.612 HEAT:  790.3595
+ CYCLE:    36 TIME:   0.254 TIME LEFT:  2.00D  GRAD.:    66.508 HEAT:  787.6155
+ CYCLE:    37 TIME:   0.266 TIME LEFT:  2.00D  GRAD.:    76.255 HEAT:  784.7777
+ CYCLE:    38 TIME:   0.273 TIME LEFT:  2.00D  GRAD.:   105.118 HEAT:  781.8344
+ CYCLE:    39 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:    72.882 HEAT:  778.3828
+ CYCLE:    40 TIME:   0.238 TIME LEFT:  2.00D  GRAD.:    60.704 HEAT:  775.9811
+ CYCLE:    41 TIME:   0.266 TIME LEFT:  2.00D  GRAD.:    66.052 HEAT:  772.5106
+ CYCLE:    42 TIME:   0.344 TIME LEFT:  2.00D  GRAD.:    94.772 HEAT:  769.2639
+ CYCLE:    43 TIME:   0.305 TIME LEFT:  2.00D  GRAD.:    85.332 HEAT:  766.7846
+ CYCLE:    44 TIME:   0.262 TIME LEFT:  2.00D  GRAD.:    54.120 HEAT:  764.6969
+ CYCLE:    45 TIME:   0.273 TIME LEFT:  2.00D  GRAD.:    59.394 HEAT:  762.5366
+ CYCLE:    46 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:    72.659 HEAT:  759.7203
+ CYCLE:    47 TIME:   0.305 TIME LEFT:  2.00D  GRAD.:   106.032 HEAT:  756.2311
+ CYCLE:    48 TIME:   0.332 TIME LEFT:  2.00D  GRAD.:    93.198 HEAT:  752.8308
+ CYCLE:    49 TIME:   0.273 TIME LEFT:  2.00D  GRAD.:    87.180 HEAT:  750.8268
+ CYCLE:    50 TIME:   0.309 TIME LEFT:  2.00D  GRAD.:    66.709 HEAT:  747.6601
+ CYCLE:    51 TIME:   0.266 TIME LEFT:  2.00D  GRAD.:    67.532 HEAT:  745.4139
+ CYCLE:    52 TIME:   0.316 TIME LEFT:  2.00D  GRAD.:    65.070 HEAT:  742.1134
+ CYCLE:    53 TIME:   0.336 TIME LEFT:  2.00D  GRAD.:    98.990 HEAT:  738.9361
+ CYCLE:    54 TIME:   0.316 TIME LEFT:  2.00D  GRAD.:    63.535 HEAT:  736.0073
+ CYCLE:    55 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:    64.327 HEAT:  733.0170
+ CYCLE:    56 TIME:   0.328 TIME LEFT:  2.00D  GRAD.:    80.850 HEAT:  729.5279
+ CYCLE:    57 TIME:   0.332 TIME LEFT:  2.00D  GRAD.:   117.618 HEAT:  727.2367
+ CYCLE:    58 TIME:   0.242 TIME LEFT:  2.00D  GRAD.:    58.904 HEAT:  724.2872
+ CYCLE:    59 TIME:   0.277 TIME LEFT:  2.00D  GRAD.:    75.102 HEAT:  722.7314
+ CYCLE:    60 TIME:   0.301 TIME LEFT:  2.00D  GRAD.:   102.007 HEAT:  721.1083
+ CYCLE:    61 TIME:   0.242 TIME LEFT:  2.00D  GRAD.:    77.941 HEAT:  718.8796
+ CYCLE:    62 TIME:   0.250 TIME LEFT:  2.00D  GRAD.:    56.746 HEAT:  716.8826
+ CYCLE:    63 TIME:   0.266 TIME LEFT:  2.00D  GRAD.:    63.063 HEAT:  713.3616
+ CYCLE:    64 TIME:   0.336 TIME LEFT:  2.00D  GRAD.:   107.637 HEAT:  710.1147
+ CYCLE:    65 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:    82.787 HEAT:  706.6755
+ CYCLE:    66 TIME:   0.266 TIME LEFT:  2.00D  GRAD.:    63.110 HEAT:  704.2872
+ CYCLE:    67 TIME:   0.301 TIME LEFT:  2.00D  GRAD.:    99.566 HEAT:  701.6298
+ CYCLE:    68 TIME:   0.266 TIME LEFT:  2.00D  GRAD.:    82.685 HEAT:  699.5894
+ CYCLE:    69 TIME:   0.266 TIME LEFT:  2.00D  GRAD.:    61.950 HEAT:  697.1990
+ CYCLE:    70 TIME:   0.262 TIME LEFT:  2.00D  GRAD.:    66.750 HEAT:  694.7075
+ CYCLE:    71 TIME:   0.336 TIME LEFT:  2.00D  GRAD.:    75.829 HEAT:  692.4495
+ CYCLE:    72 TIME:   0.305 TIME LEFT:  2.00D  GRAD.:    64.838 HEAT:  689.2779
+ CYCLE:    73 TIME:   0.305 TIME LEFT:  2.00D  GRAD.:    64.906 HEAT:  686.4450
+ CYCLE:    74 TIME:   0.258 TIME LEFT:  2.00D  GRAD.:    51.873 HEAT:  684.2613
+ CYCLE:    75 TIME:   0.266 TIME LEFT:  2.00D  GRAD.:    55.649 HEAT:  681.7424
+ CYCLE:    76 TIME:   0.297 TIME LEFT:  2.00D  GRAD.:    94.786 HEAT:  678.6302
+ CYCLE:    77 TIME:   0.270 TIME LEFT:  2.00D  GRAD.:    70.812 HEAT:  675.4351
+ CYCLE:    78 TIME:   0.309 TIME LEFT:  2.00D  GRAD.:    98.403 HEAT:  671.1124
+ CYCLE:    79 TIME:   0.305 TIME LEFT:  2.00D  GRAD.:   114.603 HEAT:  664.9190
+ CYCLE:    80 TIME:   0.301 TIME LEFT:  2.00D  GRAD.:   130.919 HEAT:  659.2918
+ CYCLE:    81 TIME:   0.301 TIME LEFT:  2.00D  GRAD.:   179.698 HEAT:  653.3136
+ CYCLE:    82 TIME:   0.262 TIME LEFT:  2.00D  GRAD.:   110.436 HEAT:  647.9366
+ CYCLE:    83 TIME:   0.383 TIME LEFT:  2.00D  GRAD.:   190.450 HEAT:  645.6251
+ CYCLE:    84 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:   147.923 HEAT:  639.4603
+ CYCLE:    85 TIME:   0.242 TIME LEFT:  2.00D  GRAD.:    79.009 HEAT:  635.7508
+ CYCLE:    86 TIME:   0.270 TIME LEFT:  2.00D  GRAD.:    89.355 HEAT:  632.4318
+ CYCLE:    87 TIME:   0.305 TIME LEFT:  2.00D  GRAD.:   164.806 HEAT:  627.3858
+ CYCLE:    88 TIME:   0.266 TIME LEFT:  2.00D  GRAD.:   100.442 HEAT:  622.7442
+ CYCLE:    89 TIME:   0.242 TIME LEFT:  2.00D  GRAD.:    76.231 HEAT:  620.5420
+ CYCLE:    90 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:    90.914 HEAT:  617.0066
+ CYCLE:    91 TIME:   0.305 TIME LEFT:  2.00D  GRAD.:    91.185 HEAT:  612.1460
+ CYCLE:    92 TIME:   0.301 TIME LEFT:  2.00D  GRAD.:   109.415 HEAT:  607.4247
+ CYCLE:    93 TIME:   0.266 TIME LEFT:  2.00D  GRAD.:    69.740 HEAT:  605.0286
+ CYCLE:    94 TIME:   0.309 TIME LEFT:  2.00D  GRAD.:    77.999 HEAT:  602.3645
+ CYCLE:    95 TIME:   0.238 TIME LEFT:  2.00D  GRAD.:    80.593 HEAT:  599.4303
+ CYCLE:    96 TIME:   0.305 TIME LEFT:  2.00D  GRAD.:    74.278 HEAT:  596.0354
+ CYCLE:    97 TIME:   0.262 TIME LEFT:  2.00D  GRAD.:    78.222 HEAT:  593.1014
+ CYCLE:    98 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:    73.284 HEAT:  590.1445
+ CYCLE:    99 TIME:   0.262 TIME LEFT:  2.00D  GRAD.:    65.411 HEAT:  587.1948
+ CYCLE:   100 TIME:   0.297 TIME LEFT:  2.00D  GRAD.:    84.661 HEAT:  582.7088
+ CYCLE:   101 TIME:   0.301 TIME LEFT:  2.00D  GRAD.:   120.315 HEAT:  579.2086
+ CYCLE:   102 TIME:   0.371 TIME LEFT:  2.00D  GRAD.:   156.435 HEAT:  579.1581
+ CYCLE:   103 TIME:   0.301 TIME LEFT:  2.00D  GRAD.:   220.231 HEAT:  585.6980
+ CYCLE:   104 TIME:   0.254 TIME LEFT:  2.00D  GRAD.:   432.581 HEAT:  598.1220
+ CYCLE:   105 TIME:   0.250 TIME LEFT:  2.00D  GRAD.:   477.156 HEAT:  594.0850
+ CYCLE:   106 TIME:   0.293 TIME LEFT:  2.00D  GRAD.:   433.547 HEAT:  610.6844
+ CYCLE:   107 TIME:   0.223 TIME LEFT:  2.00D  GRAD.:   561.173 HEAT:  655.7812
+ CYCLE:   108 TIME:   0.219 TIME LEFT:  2.00D  GRAD.:   875.057 HEAT:  740.7867
+ CYCLE:   109 TIME:   0.219 TIME LEFT:  2.00D  GRAD.:   751.749 HEAT:  686.6042
+ CYCLE:   110 TIME:   0.242 TIME LEFT:  2.00D  GRAD.:  1008.801 HEAT:  686.2415
+ CYCLE:   111 TIME:   0.227 TIME LEFT:  2.00D  GRAD.:  2183.708 HEAT:  915.0626
+ CYCLE:   112 TIME:   0.215 TIME LEFT:  2.00D  GRAD.:  1030.362 HEAT:  664.2008
+ CYCLE:   113 TIME:   0.215 TIME LEFT:  2.00D  GRAD.:  1036.095 HEAT:  689.5483
+ CYCLE:   114 TIME:   0.270 TIME LEFT:  2.00D  GRAD.:   405.428 HEAT:  599.3856
+ CYCLE:   115 TIME:   0.297 TIME LEFT:  2.00D  GRAD.:   250.500 HEAT:  584.9195
+ CYCLE:   116 TIME:   0.301 TIME LEFT:  2.00D  GRAD.:   292.191 HEAT:  574.6388
+ CYCLE:   117 TIME:   0.336 TIME LEFT:  2.00D  GRAD.:   286.342 HEAT:  574.0281
+ CYCLE:   118 TIME:   0.238 TIME LEFT:  2.00D  GRAD.:    93.527 HEAT:  562.7648
+ CYCLE:   119 TIME:   0.281 TIME LEFT:  2.00D  GRAD.:   150.497 HEAT:  561.6142
+ CYCLE:   120 TIME:   0.219 TIME LEFT:  2.00D  GRAD.:    73.603 HEAT:  559.2009
+ CYCLE:   121 TIME:   0.242 TIME LEFT:  2.00D  GRAD.:    64.503 HEAT:  556.6336
+ CYCLE:   122 TIME:   0.254 TIME LEFT:  2.00D  GRAD.:    82.744 HEAT:  552.7387
+ CYCLE:   123 TIME:   0.305 TIME LEFT:  2.00D  GRAD.:   120.236 HEAT:  548.4804
+ CYCLE:   124 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:    77.278 HEAT:  544.6353
+ CYCLE:   125 TIME:   0.270 TIME LEFT:  2.00D  GRAD.:    62.922 HEAT:  541.9857
+ CYCLE:   126 TIME:   0.258 TIME LEFT:  2.00D  GRAD.:    92.137 HEAT:  536.5159
+ CYCLE:   127 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:   143.362 HEAT:  532.8422
+ CYCLE:   128 TIME:   0.250 TIME LEFT:  2.00D  GRAD.:    92.378 HEAT:  528.7200
+ CYCLE:   129 TIME:   0.309 TIME LEFT:  2.00D  GRAD.:   138.721 HEAT:  525.5672
+ CYCLE:   130 TIME:   0.246 TIME LEFT:  2.00D  GRAD.:    90.204 HEAT:  521.6935
+ CYCLE:   131 TIME:   0.258 TIME LEFT:  2.00D  GRAD.:    77.739 HEAT:  518.2876
+ CYCLE:   132 TIME:   0.258 TIME LEFT:  2.00D  GRAD.:    76.484 HEAT:  514.5534
+ CYCLE:   133 TIME:   0.305 TIME LEFT:  2.00D  GRAD.:   129.937 HEAT:  510.5248
+ CYCLE:   134 TIME:   0.332 TIME LEFT:  2.00D  GRAD.:   238.600 HEAT:  513.0873
+ CYCLE:   135 TIME:   0.262 TIME LEFT:  2.00D  GRAD.:   368.646 HEAT:  528.1310
+ CYCLE:   136 TIME:   0.250 TIME LEFT:  2.00D  GRAD.:   503.296 HEAT:  562.4983
+ CYCLE:   137 TIME:   0.234 TIME LEFT:  2.00D  GRAD.:   603.410 HEAT:  612.1751
+ CYCLE:   138 TIME:   0.234 TIME LEFT:  2.00D  GRAD.:   661.479 HEAT:  670.6077
+ CYCLE:   139 TIME:   0.199 TIME LEFT:  2.00D  GRAD.:   616.079 HEAT:  721.3843
+ CYCLE:   140 TIME:   0.219 TIME LEFT:  2.00D  GRAD.:  1501.029 HEAT:  1065.500
+ CYCLE:   141 TIME:   0.195 TIME LEFT:  2.00D  GRAD.:  1242.268 HEAT:  873.4526
+ CYCLE:   142 TIME:   0.203 TIME LEFT:  2.00D  GRAD.:  1117.340 HEAT:  782.2746
+ CYCLE:   143 TIME:   0.203 TIME LEFT:  2.00D  GRAD.:  1052.992 HEAT:  724.2924
+ CYCLE:   144 TIME:   0.238 TIME LEFT:  2.00D  GRAD.:  1005.033 HEAT:  692.7627
+ CYCLE:   145 TIME:   0.227 TIME LEFT:  2.00D  GRAD.:   976.315 HEAT:  687.7783
+ CYCLE:   146 TIME:   0.234 TIME LEFT:  2.00D  GRAD.:   889.278 HEAT:  693.3462
+ CYCLE:   147 TIME:   0.227 TIME LEFT:  2.00D  GRAD.:   759.168 HEAT:  686.6833
+ CYCLE:   148 TIME:   0.219 TIME LEFT:  2.00D  GRAD.:   802.576 HEAT:  713.3339
+ CYCLE:   149 TIME:   0.223 TIME LEFT:  2.00D  GRAD.:   838.613 HEAT:  683.2034
+
+
+ HEAT OF FORMATION IS ESSENTIALLY STATIONARY
+
+ -------------------------------------------------------------------------------
+ XYZ RAPID MOZYME PM7 LOG PDBOUT CHARGE=-9
+ candidates/ligand_6OAI.pdb
+
+
+
+     HERBERTS TEST WAS SATISFIED IN BFGS                      
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 20.079L)
+                                                       Sun Mar 22 14:16:46 2020
+                                                       No. of days remaining = 182
+
+
+
+
+          FINAL HEAT OF FORMATION =        510.52477 KCAL/MOL =    2136.03565 KJ/MOL
+
+
+          TOTAL ENERGY            =     -11431.56485 EV
+          ELECTRONIC ENERGY       =     -92889.22203 EV
+          CORE-CORE REPULSION     =      81457.65718 EV
+
+          GRADIENT NORM           =        129.93734 = 17.06161 PER ATOM
+          NO. OF FILLED LEVELS    =        146
+          MOLECULAR WEIGHT        =        798.3437
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+            O    54    O    14    27.56199
+            O    52    O    39    14.11898
+            O    58    O    32     7.74380
+
+
+          SCF CALCULATIONS        =        151
+ 
+          WALL-CLOCK TIME         =         46.195 SECONDS
+          COMPUTATION TIME        =  2 MINUTES AND  9.445 SECONDS
+
+
+
+       FINAL  POINT  AND  DERIVATIVES
+
+                                         Cartesian Gradients         Cartesian Coordinates          |Gradient|
+  Atom                                   X        Y        Z        X          Y          Z
+ 
+    1  C(HETATM    1  C1  HET A   1)   -3.082    4.036  -12.927   39.78735   16.26455   34.24661      13.888
+    2  C(HETATM    2  C2  HET A   1)   -6.207   -7.372    0.921   39.76550   17.45318   35.27244       9.681
+    3  C(HETATM    3  C3  HET A   1)   -7.592   11.905   -2.093   41.01919   17.73130   36.14632      14.274
+    4  C(HETATM    4  C4  HET A   1)    4.165   14.623  -21.016   41.97134   19.15834   35.80472      25.940
+    5  C(HETATM    5  C5  HET A   1)   11.480   17.348   21.947   42.50150   20.01039   36.57543      30.240
+    6  C(HETATM    6  C6  HET A   1)   -3.730   -6.457  -11.149   42.92538   20.96815   37.60207      13.413
+    7  C(HETATM    7  C7  HET A   1)    6.408   -5.304   -7.178   38.84389   13.40502   38.30767      10.987
+    8  C(HETATM    8  C8  HET A   1)   10.632   11.752    2.883   38.07702   13.18486   36.94172      16.108
+    9  C(HETATM    9  C9  HET A   1)    6.582    1.194    1.046   39.10468   12.76703   36.01411       6.770
+   10  C(HETATM   10  C10 HET A   1)   -4.180   -1.015    1.100   39.92976   11.75422   36.36929       4.440
+   11  O(HETATM   11  O1  HET A   1)    4.642   -2.836    3.901   40.80621   15.90889   33.66453       6.694
+   12  O(HETATM   12  O2  HET A   1)   -2.771   -6.064   -5.451   38.80738   18.16261   35.39756       8.612
+   13  O(HETATM   13  O3  HET A   1)    8.008  -26.406   18.704   41.31271   16.82793   36.75999      33.335
+   14  O(HETATM   14  O4  HET A   1)   -2.106   -5.792   10.764   41.98803   19.26967   34.45549      12.404
+   15  C(HETATM   15  C11 HET A   1)   -7.946   -2.041    1.635   39.63114   11.34685   37.69662       8.365
+   16  C(HETATM   16  C12 HET A   1)    9.115   20.272  -11.319   38.71132   10.18088   38.15681      24.943
+   17  C(HETATM   17  C13 HET A   1)   -7.636   -2.646    2.853   35.73267   13.04521   37.70364       8.570
+   18  C(HETATM   18  C14 HET A   1)    0.161   -9.146   -1.149   35.21586   11.80778   37.89756       9.219
+   19  C(HETATM   19  C15 HET A   1)    0.761   -3.323   -2.126   32.55939    7.97347   50.02715       4.018
+   20  C(HETATM   20  C16 HET A   1)   31.615    8.060  -43.804   36.71619    9.10131   47.76700      54.619
+   21  C(HETATM   21  C17 HET A   1)  -34.684   21.595   56.225   36.01601    9.26171   48.71671      69.502
+   22  C(HETATM   22  C18 HET A   1)   -0.941  -15.531   -2.668   35.56700    9.49357   49.76865      15.787
+   23  C(HETATM   23  C19 HET A   1)   -8.520  -13.578   -7.229   34.71163    8.55591   50.84332      17.584
+   24  C(HETATM   24  C20 HET A   1)    7.069    2.721   20.687   34.98741    8.63403   52.04153      22.030
+   25  C(HETATM   25  C21 HET A   1)   -2.189    1.794   -0.721   28.75140    6.07871   53.21497       2.921
+   26  C(HETATM   26  C22 HET A   1)   -2.598   -6.781    5.016   29.72707    5.22415   52.62924       8.826
+   27  C(HETATM   27  C23 HET A   1)    2.001   -0.618    3.443   30.79042    5.81914   51.87260       4.030
+   28  C(HETATM   28  C24 HET A   1)    2.692    4.056    0.047   30.79154    7.25592   51.74418       4.868
+   29  C(HETATM   29  C25 HET A   1)    0.388   -0.181    3.563   29.92461    8.03911   52.42187       3.588
+   30  N(HETATM   30  N   HET A   1)   -6.637   -1.125   -7.968   36.83035   13.18339   36.76791      10.430
+   31  O(HETATM   31  O5  HET A   1)    3.067   -3.908    2.549   38.98062   14.30037   39.02738       5.584
+   32  O(HETATM   32  O6  HET A   1)    5.700   10.882   -3.244   41.00441   11.34912   35.79388      12.706
+   33  O(HETATM   33  O7  HET A   1)   -0.597    2.394   -6.249   39.59186   12.24935   38.67373       6.719
+   34  O(HETATM   34  O8  HET A   1)  -12.223  -13.725   14.597   38.47312    9.22142   38.60809      23.470
+   35  O(HETATM   35  O9  HET A   1)   -4.582    5.084    2.543   35.22298   14.09133   38.28883       7.301
+   36  O(HETATM   36  O10 HET A   1)    2.205   -1.944   -5.033   31.54223    7.79949   50.69951       5.828
+   37  O(HETATM   37  O11 HET A   1)    6.694  -10.305  -11.971   37.17027    8.98217   46.61686      17.155
+   38  O(HETATM   38  O12 HET A   1)    7.724    9.323    8.868   33.90992    7.60398   50.25993      15.008
+   39  O(HETATM   39  O13 HET A   1)   -7.863   -2.221  -25.200   35.25258    8.71700   53.23572      26.492
+   40  O(HETATM   40  O14 HET A   1)    3.205    3.620   -6.604   36.08186   10.43448   50.49876       8.185
+   41  C(HETATM   41  C26 HET A   1)    0.348   -4.519   -0.749   38.37335   13.50252   33.94255       4.594
+   42  O(HETATM   42  O15 HET A   1)   -0.833   -2.047   -3.413   39.33977   13.48078   34.88787       4.066
+   43  C(HETATM   43  C27 HET A   1)    2.250   -2.311    3.299   38.19501   14.74101   33.36150       4.614
+   44  O(HETATM   44  O16 HET A   1)   -5.121   -6.523    5.182   38.53449   15.89207   34.03509       9.779
+   45  C(HETATM   45  C28 HET A   1)    2.611    9.448    4.031   37.46086   14.82158   32.17616      10.599
+   46  O(HETATM   46  O17 HET A   1)   -1.726   -2.164   -1.565   37.43676   15.90557   31.45797       3.180
+   47  C(HETATM   47  C29 HET A   1)    2.326    1.781    1.116   36.71537   13.56862   31.75637       3.135
+   48  O(HETATM   48  O18 HET A   1)   -0.789    5.439    0.869   35.91751   13.71661   30.78135       5.564
+   49  C(HETATM   49  C30 HET A   1)   -1.131   -2.601    0.975   36.90011   12.41719   32.48080       3.000
+   50  O(HETATM   50  O19 HET A   1)   -1.672    0.370   -3.334   37.82716   12.38850   33.51975       3.748
+   51  C(HETATM   51  C31 HET A   1)    2.472   -3.831    8.169   36.04920   11.14613   32.86819       9.355
+   52  O(HETATM   52  O20 HET A   1)   -3.740   -4.647    3.800   35.66514   10.34395   32.02237       7.073
+   53  C(HETATM   53  C32 HET A   1)   -6.231    0.715    4.232   29.99892    9.58714   52.62548       7.566
+   54  O(HETATM   54  O21 HET A   1)    2.112    5.425   -3.835   27.69426    5.86107   53.83489       6.972
+   55  O(HETATM   55  O22 HET A   1)    0.957    4.787   -3.005   29.59101    3.95560   52.85949       5.732
+   56  O(HETATM   56  O23 HET A   1)    1.818    2.097   -2.588   31.76891    5.13311   51.30490       3.795
+   57  O(HETATM   57  O24 HET A   1)   -2.824    0.094   -2.035   28.98890    7.48373   53.28852       3.482
+   58  O(HETATM   58  O25 HET A   1)    0.945   -3.852    0.658   28.96705   10.22633   52.75202       4.020
+ 
+
+              GRADIENTS FOR ALL GROUPS
+
+                Group       Gradient
+ 
+              HET    1      129.937
+
+
+
+
+   ATOM                 CHEMICAL                   X               Y               Z
+  NUMBER                 SYMBOL               (ANGSTROMS)     (ANGSTROMS)     (ANGSTROMS)
+ 
+     1       C(HETATM    1  C1  HET A   1)   39.78734779  *  16.26455022  *  34.24661353  *
+     2       C(HETATM    2  C2  HET A   1)   39.76550202  *  17.45317585  *  35.27243720  *
+     3       C(HETATM    3  C3  HET A   1)   41.01918557  *  17.73130492  *  36.14632384  *
+     4       C(HETATM    4  C4  HET A   1)   41.97133792  *  19.15833626  *  35.80472019  *
+     5       C(HETATM    5  C5  HET A   1)   42.50149856  *  20.01038726  *  36.57542582  *
+     6       C(HETATM    6  C6  HET A   1)   42.92537536  *  20.96814967  *  37.60207303  *
+     7       C(HETATM    7  C7  HET A   1)   38.84389191  *  13.40501629  *  38.30766621  *
+     8       C(HETATM    8  C8  HET A   1)   38.07702418  *  13.18485760  *  36.94172356  *
+     9       C(HETATM    9  C9  HET A   1)   39.10468289  *  12.76703401  *  36.01411013  *
+    10       C(HETATM   10  C10 HET A   1)   39.92976039  *  11.75421874  *  36.36928545  *
+    11       O(HETATM   11  O1  HET A   1)   40.80620756  *  15.90889454  *  33.66453206  *
+    12       O(HETATM   12  O2  HET A   1)   38.80738338  *  18.16261070  *  35.39756495  *
+    13       O(HETATM   13  O3  HET A   1)   41.31270705  *  16.82792712  *  36.75998837  *
+    14       O(HETATM   14  O4  HET A   1)   41.98803032  *  19.26966696  *  34.45549061  *
+    15       C(HETATM   15  C11 HET A   1)   39.63113964  *  11.34684898  *  37.69662144  *
+    16       C(HETATM   16  C12 HET A   1)   38.71132346  *  10.18088172  *  38.15681337  *
+    17       C(HETATM   17  C13 HET A   1)   35.73267388  *  13.04521045  *  37.70364097  *
+    18       C(HETATM   18  C14 HET A   1)   35.21585502  *  11.80778359  *  37.89755678  *
+    19       C(HETATM   19  C15 HET A   1)   32.55938731  *   7.97347044  *  50.02714624  *
+    20       C(HETATM   20  C16 HET A   1)   36.71619177  *   9.10130767  *  47.76699900  *
+    21       C(HETATM   21  C17 HET A   1)   36.01601340  *   9.26171476  *  48.71670814  *
+    22       C(HETATM   22  C18 HET A   1)   35.56700479  *   9.49357384  *  49.76864954  *
+    23       C(HETATM   23  C19 HET A   1)   34.71163286  *   8.55591460  *  50.84331794  *
+    24       C(HETATM   24  C20 HET A   1)   34.98741242  *   8.63403247  *  52.04152832  *
+    25       C(HETATM   25  C21 HET A   1)   28.75139544  *   6.07870887  *  53.21497072  *
+    26       C(HETATM   26  C22 HET A   1)   29.72707036  *   5.22414974  *  52.62923574  *
+    27       C(HETATM   27  C23 HET A   1)   30.79041872  *   5.81914043  *  51.87259771  *
+    28       C(HETATM   28  C24 HET A   1)   30.79153726  *   7.25591625  *  51.74418172  *
+    29       C(HETATM   29  C25 HET A   1)   29.92461016  *   8.03910944  *  52.42186830  *
+    30       N(HETATM   30  N   HET A   1)   36.83035376  *  13.18338528  *  36.76790641  *
+    31       O(HETATM   31  O5  HET A   1)   38.98061954  *  14.30036613  *  39.02737945  *
+    32       O(HETATM   32  O6  HET A   1)   41.00441059  *  11.34911609  *  35.79387780  *
+    33       O(HETATM   33  O7  HET A   1)   39.59185559  *  12.24934726  *  38.67373446  *
+    34       O(HETATM   34  O8  HET A   1)   38.47311901  *   9.22142292  *  38.60809391  *
+    35       O(HETATM   35  O9  HET A   1)   35.22298180  *  14.09133377  *  38.28883178  *
+    36       O(HETATM   36  O10 HET A   1)   31.54222901  *   7.79948714  *  50.69950543  *
+    37       O(HETATM   37  O11 HET A   1)   37.17027048  *   8.98216919  *  46.61686489  *
+    38       O(HETATM   38  O12 HET A   1)   33.90992399  *   7.60398153  *  50.25992820  *
+    39       O(HETATM   39  O13 HET A   1)   35.25258128  *   8.71699769  *  53.23572421  *
+    40       O(HETATM   40  O14 HET A   1)   36.08186231  *  10.43448009  *  50.49876363  *
+    41       C(HETATM   41  C26 HET A   1)   38.37334806  *  13.50252252  *  33.94254885  *
+    42       O(HETATM   42  O15 HET A   1)   39.33977493  *  13.48078322  *  34.88786821  *
+    43       C(HETATM   43  C27 HET A   1)   38.19501231  *  14.74101433  *  33.36149968  *
+    44       O(HETATM   44  O16 HET A   1)   38.53449408  *  15.89207359  *  34.03508576  *
+    45       C(HETATM   45  C28 HET A   1)   37.46085787  *  14.82158188  *  32.17615785  *
+    46       O(HETATM   46  O17 HET A   1)   37.43675524  *  15.90557243  *  31.45797494  *
+    47       C(HETATM   47  C29 HET A   1)   36.71537435  *  13.56861625  *  31.75636726  *
+    48       O(HETATM   48  O18 HET A   1)   35.91750567  *  13.71660980  *  30.78135073  *
+    49       C(HETATM   49  C30 HET A   1)   36.90010943  *  12.41718866  *  32.48080055  *
+    50       O(HETATM   50  O19 HET A   1)   37.82715899  *  12.38850209  *  33.51974983  *
+    51       C(HETATM   51  C31 HET A   1)   36.04920022  *  11.14612867  *  32.86819109  *
+    52       O(HETATM   52  O20 HET A   1)   35.66513757  *  10.34395410  *  32.02236826  *
+    53       C(HETATM   53  C32 HET A   1)   29.99892370  *   9.58714216  *  52.62548038  *
+    54       O(HETATM   54  O21 HET A   1)   27.69426420  *   5.86107129  *  53.83489013  *
+    55       O(HETATM   55  O22 HET A   1)   29.59101174  *   3.95559964  *  52.85949056  *
+    56       O(HETATM   56  O23 HET A   1)   31.76890903  *   5.13311087  *  51.30490481  *
+    57       O(HETATM   57  O24 HET A   1)   28.98890401  *   7.48373358  *  53.28852264  *
+    58       O(HETATM   58  O25 HET A   1)   28.96705307  *  10.22633436  *  52.75201762  *
+
+                             CARTESIAN COORDINATES
+
+   1    C       39.787347788    16.264550218    34.246613528
+   2    C       39.765502018    17.453175850    35.272437202
+   3    C       41.019185572    17.731304922    36.146323843
+   4    C       41.971337920    19.158336258    35.804720189
+   5    C       42.501498557    20.010387261    36.575425820
+   6    C       42.925375358    20.968149674    37.602073030
+   7    C       38.843891915    13.405016294    38.307666214
+   8    C       38.077024176    13.184857598    36.941723556
+   9    C       39.104682887    12.767034010    36.014110128
+  10    C       39.929760386    11.754218744    36.369285449
+  11    O       40.806207561    15.908894543    33.664532057
+  12    O       38.807383377    18.162610701    35.397564955
+  13    O       41.312707049    16.827927121    36.759988367
+  14    O       41.988030322    19.269666955    34.455490607
+  15    C       39.631139636    11.346848978    37.696621437
+  16    C       38.711323457    10.180881720    38.156813366
+  17    C       35.732673884    13.045210446    37.703640967
+  18    C       35.215855020    11.807783585    37.897556776
+  19    C       32.559387312     7.973470437    50.027146236
+  20    C       36.716191774     9.101307670    47.766999002
+  21    C       36.016013398     9.261714759    48.716708136
+  22    C       35.567004785     9.493573843    49.768649538
+  23    C       34.711632865     8.555914604    50.843317940
+  24    C       34.987412422     8.634032465    52.041528317
+  25    C       28.751395445     6.078708871    53.214970722
+  26    C       29.727070358     5.224149737    52.629235735
+  27    C       30.790418715     5.819140433    51.872597709
+  28    C       30.791537263     7.255916246    51.744181724
+  29    C       29.924610156     8.039109445    52.421868302
+  30    N       36.830353758    13.183385284    36.767906415
+  31    O       38.980619542    14.300366133    39.027379454
+  32    O       41.004410595    11.349116089    35.793877796
+  33    O       39.591855593    12.249347261    38.673734460
+  34    O       38.473119012     9.221422920    38.608093908
+  35    O       35.222981800    14.091333769    38.288831785
+  36    O       31.542229010     7.799487144    50.699505425
+  37    O       37.170270482     8.982169195    46.616864894
+  38    O       33.909923991     7.603981534    50.259928198
+  39    O       35.252581276     8.716997687    53.235724214
+  40    O       36.081862314    10.434480091    50.498763627
+  41    C       38.373348058    13.502522519    33.942548846
+  42    O       39.339774932    13.480783219    34.887868208
+  43    C       38.195012312    14.741014333    33.361499680
+  44    O       38.534494080    15.892073586    34.035085755
+  45    C       37.460857867    14.821581876    32.176157846
+  46    O       37.436755240    15.905572429    31.457974938
+  47    C       36.715374350    13.568616249    31.756367261
+  48    O       35.917505667    13.716609796    30.781350733
+  49    C       36.900109429    12.417188656    32.480800554
+  50    O       37.827158992    12.388502089    33.519749831
+  51    C       36.049200223    11.146128672    32.868191087
+  52    O       35.665137572    10.343954101    32.022368263
+  53    C       29.998923703     9.587142158    52.625480377
+  54    O       27.694264203     5.861071294    53.834890131
+  55    O       29.591011742     3.955599642    52.859490559
+  56    O       31.768909031     5.133110872    51.304904808
+  57    O       28.988904007     7.483733581    53.288522645
+  58    O       28.967053070    10.226334360    52.752017625
+
+
+           Empirical Formula: C32 N O25  =    58 atoms
+
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.                 TYPE                        CHARGE      No. of ELECS.   s-Pop       p-Pop       
+    1          C(HETATM    1  C1  HET A   1)           0.523245        3.4768     1.14943     2.32732
+    2          C(HETATM    2  C2  HET A   1)           0.341366        3.6586     1.21752     2.44111
+    3          C(HETATM    3  C3  HET A   1)           0.353112        3.6469     1.23844     2.40845
+    4          C(HETATM    4  C4  HET A   1)           0.458936        3.5411     1.14659     2.39448
+    5          C(HETATM    5  C5  HET A   1)          -0.780918        4.7809     1.12708     3.65384
+    6          C(HETATM    6  C6  HET A   1)           0.010625        3.9894     1.76702     2.22235
+    7          C(HETATM    7  C7  HET A   1)           0.527370        3.4726     1.21458     2.25806
+    8          C(HETATM    8  C8  HET A   1)           0.194841        3.8052     1.08319     2.72196
+    9          C(HETATM    9  C9  HET A   1)          -0.229691        4.2297     1.03094     3.19875
+   10          C(HETATM   10  C10 HET A   1)           0.417243        3.5828     1.05230     2.53046
+   11          O(HETATM   11  O1  HET A   1)          -0.530199        6.5302     1.88699     4.64321
+   12          O(HETATM   12  O2  HET A   1)          -0.415597        6.4156     1.87412     4.54148
+   13          O(HETATM   13  O3  HET A   1)          -0.387755        6.3878     1.83335     4.55441
+   14          O(HETATM   14  O4  HET A   1)          -0.684637        6.6846     1.92827     4.75636
+   15          C(HETATM   15  C11 HET A   1)          -0.055158        4.0552     1.18044     2.87472
+   16          C(HETATM   16  C12 HET A   1)           0.395321        3.6047     1.28481     2.31986
+   17          C(HETATM   17  C13 HET A   1)           0.218917        3.7811     1.09865     2.68243
+   18          C(HETATM   18  C14 HET A   1)          -0.104173        4.1042     1.73275     2.37143
+   19          C(HETATM   19  C15 HET A   1)           0.548288        3.4517     1.74595     1.70576
+   20          C(HETATM   20  C16 HET A   1)           0.528503        3.4715     1.09333     2.37817
+   21          C(HETATM   21  C17 HET A   1)          -0.685611        4.6856     0.99282     3.69279
+   22          C(HETATM   22  C18 HET A   1)           0.650375        3.3496     1.05685     2.29278
+   23          C(HETATM   23  C19 HET A   1)          -0.090502        4.0905     1.06718     3.02332
+   24          C(HETATM   24  C20 HET A   1)           0.448716        3.5513     1.12596     2.42532
+   25          C(HETATM   25  C21 HET A   1)           0.456434        3.5436     1.14404     2.39953
+   26          C(HETATM   26  C22 HET A   1)           0.036233        3.9638     1.04972     2.91404
+   27          C(HETATM   27  C23 HET A   1)           0.334014        3.6660     1.09918     2.56681
+   28          C(HETATM   28  C24 HET A   1)          -0.087424        4.0874     1.09129     2.99614
+   29          C(HETATM   29  C25 HET A   1)          -0.016614        4.0166     1.21289     2.80372
+   30          N(HETATM   30  N   HET A   1)          -0.344876        5.3449     1.70751     3.63736
+   31          O(HETATM   31  O5  HET A   1)          -0.466803        6.4668     1.84955     4.61725
+   32          O(HETATM   32  O6  HET A   1)          -0.725337        6.7253     1.90403     4.82131
+   33          O(HETATM   33  O7  HET A   1)          -0.431111        6.4311     1.85949     4.57162
+   34          O(HETATM   34  O8  HET A   1)          -0.392177        6.3922     1.81012     4.58205
+   35          O(HETATM   35  O9  HET A   1)          -0.822406        6.8224     1.90976     4.91265
+   36          O(HETATM   36  O10 HET A   1)          -0.366803        6.3668     1.74701     4.61979
+   37          O(HETATM   37  O11 HET A   1)          -0.601360        6.6014     1.89516     4.70620
+   38          O(HETATM   38  O12 HET A   1)          -0.498271        6.4983     1.85920     4.63907
+   39          O(HETATM   39  O13 HET A   1)          -0.457432        6.4574     1.89202     4.56541
+   40          O(HETATM   40  O14 HET A   1)          -0.763193        6.7632     1.90767     4.85552
+   41          C(HETATM   41  C26 HET A   1)           0.386923        3.6131     1.12501     2.48807
+   42          O(HETATM   42  O15 HET A   1)          -0.176494        6.1765     1.85635     4.32014
+   43          C(HETATM   43  C27 HET A   1)          -0.273809        4.2738     1.05172     3.22209
+   44          O(HETATM   44  O16 HET A   1)          -0.160470        6.1605     1.85479     4.30568
+   45          C(HETATM   45  C28 HET A   1)           0.405651        3.5943     1.13755     2.45680
+   46          O(HETATM   46  O17 HET A   1)          -0.707460        6.7075     1.90966     4.79780
+   47          C(HETATM   47  C29 HET A   1)           0.282142        3.7179     1.08793     2.62993
+   48          O(HETATM   48  O18 HET A   1)          -0.801108        6.8011     1.89249     4.90862
+   49          C(HETATM   49  C30 HET A   1)          -0.340489        4.3405     1.21262     3.12787
+   50          O(HETATM   50  O19 HET A   1)          -0.109424        6.1094     1.85136     4.25806
+   51          C(HETATM   51  C31 HET A   1)           0.308533        3.6915     1.61881     2.07266
+   52          O(HETATM   52  O20 HET A   1)          -0.875310        6.8753     1.86771     5.00760
+   53          C(HETATM   53  C32 HET A   1)           0.208222        3.7918     1.60284     2.18894
+   54          O(HETATM   54  O21 HET A   1)          -0.788636        6.7886     1.88201     4.90663
+   55          O(HETATM   55  O22 HET A   1)          -0.891764        6.8918     1.90008     4.99168
+   56          O(HETATM   56  O23 HET A   1)          -0.770231        6.7702     1.91571     4.85452
+   57          O(HETATM   57  O24 HET A   1)          -0.387451        6.3875     1.87676     4.51069
+   58          O(HETATM   58  O25 HET A   1)          -0.814313        6.8143     1.86588     4.94843
+
+          NET CHARGE ON RESIDUES
+
+      Residue         Charge  Anion or
+                              Cation?
+      HET A   1       -9.000  ANION
+ 
+
+
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.    43.622    23.916   -36.568    61.742
+ HYBRID        -0.257     0.357     0.659     0.792
+ SUM           43.365    24.273   -35.910    61.312
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+                   Atom                  s        px        py        pz   
+    1  C(HETATM    1  C1  HET A   1)   1.14943   0.80380   0.77184   0.75169
+    2  C(HETATM    2  C2  HET A   1)   1.21752   0.83824   0.80776   0.79511
+    3  C(HETATM    3  C3  HET A   1)   1.23844   0.83372   0.84210   0.73264
+    4  C(HETATM    4  C4  HET A   1)   1.14659   0.72961   0.83532   0.82954
+    5  C(HETATM    5  C5  HET A   1)   1.12708   1.28594   1.18918   1.17872
+    6  C(HETATM    6  C6  HET A   1)   1.76702   0.52803   0.82932   0.86500
+    7  C(HETATM    7  C7  HET A   1)   1.21458   0.72307   0.72083   0.81415
+    8  C(HETATM    8  C8  HET A   1)   1.08319   0.88169   0.95493   0.88534
+    9  C(HETATM    9  C9  HET A   1)   1.03094   1.15923   1.12031   0.91921
+   10  C(HETATM   10  C10 HET A   1)   1.05230   0.84717   0.84946   0.83384
+   11  O(HETATM   11  O1  HET A   1)   1.88699   1.43663   1.67311   1.53346
+   12  O(HETATM   12  O2  HET A   1)   1.87412   1.43766   1.47366   1.63016
+   13  O(HETATM   13  O3  HET A   1)   1.83335   1.69788   1.41852   1.43801
+   14  O(HETATM   14  O4  HET A   1)   1.92827   1.70932   1.81456   1.23248
+   15  C(HETATM   15  C11 HET A   1)   1.18044   0.89709   0.98084   0.99678
+   16  C(HETATM   16  C12 HET A   1)   1.28481   0.84418   0.82313   0.65256
+   17  C(HETATM   17  C13 HET A   1)   1.09865   0.87955   0.92109   0.88179
+   18  C(HETATM   18  C14 HET A   1)   1.73275   0.67513   0.94676   0.74954
+   19  C(HETATM   19  C15 HET A   1)   1.74595   0.57767   0.43893   0.68916
+   20  C(HETATM   20  C16 HET A   1)   1.09333   0.78199   0.77606   0.82012
+   21  C(HETATM   21  C17 HET A   1)   0.99282   1.19136   1.35567   1.14576
+   22  C(HETATM   22  C18 HET A   1)   1.05685   0.70856   0.73876   0.84546
+   23  C(HETATM   23  C19 HET A   1)   1.06718   1.06601   1.02849   0.92883
+   24  C(HETATM   24  C20 HET A   1)   1.12596   0.81697   0.75378   0.85457
+   25  C(HETATM   25  C21 HET A   1)   1.14404   0.82861   0.72971   0.84121
+   26  C(HETATM   26  C22 HET A   1)   1.04972   0.96917   0.85615   1.08872
+   27  C(HETATM   27  C23 HET A   1)   1.09918   0.86777   0.85655   0.84249
+   28  C(HETATM   28  C24 HET A   1)   1.09129   1.00522   0.97786   1.01306
+   29  C(HETATM   29  C25 HET A   1)   1.21289   0.84693   1.08869   0.86810
+   30  N(HETATM   30  N   HET A   1)   1.70751   1.08464   1.09044   1.46228
+   31  O(HETATM   31  O5  HET A   1)   1.84955   1.63709   1.45197   1.52819
+   32  O(HETATM   32  O6  HET A   1)   1.90403   1.34752   1.73401   1.73979
+   33  O(HETATM   33  O7  HET A   1)   1.85949   1.69973   1.40007   1.47182
+   34  O(HETATM   34  O8  HET A   1)   1.81012   1.71631   1.39290   1.47284
+   35  O(HETATM   35  O9  HET A   1)   1.90976   1.76555   1.42793   1.71916
+   36  O(HETATM   36  O10 HET A   1)   1.74701   1.51261   1.61671   1.49047
+   37  O(HETATM   37  O11 HET A   1)   1.89516   1.70058   1.75291   1.25271
+   38  O(HETATM   38  O12 HET A   1)   1.85920   1.40510   1.48155   1.75242
+   39  O(HETATM   39  O13 HET A   1)   1.89202   1.66986   1.64967   1.24588
+   40  O(HETATM   40  O14 HET A   1)   1.90767   1.63646   1.50979   1.70928
+   41  C(HETATM   41  C26 HET A   1)   1.12501   0.81724   0.86731   0.80352
+   42  O(HETATM   42  O15 HET A   1)   1.85635   1.38119   1.64580   1.29314
+   43  C(HETATM   43  C27 HET A   1)   1.05172   1.26841   0.85429   1.09939
+   44  O(HETATM   44  O16 HET A   1)   1.85479   1.25293   1.41360   1.63915
+   45  C(HETATM   45  C28 HET A   1)   1.13755   0.76795   0.87837   0.81048
+   46  O(HETATM   46  O17 HET A   1)   1.90966   1.72447   1.42867   1.64465
+   47  C(HETATM   47  C29 HET A   1)   1.08793   0.86750   0.90472   0.85771
+   48  O(HETATM   48  O18 HET A   1)   1.89249   1.55084   1.89458   1.46319
+   49  C(HETATM   49  C30 HET A   1)   1.21262   1.05281   1.18752   0.88753
+   50  O(HETATM   50  O19 HET A   1)   1.85136   1.48732   1.30438   1.46637
+   51  C(HETATM   51  C31 HET A   1)   1.61881   0.46144   0.57935   1.03187
+   52  O(HETATM   52  O20 HET A   1)   1.86771   1.66928   1.61618   1.72214
+   53  C(HETATM   53  C32 HET A   1)   1.60284   1.05207   0.71232   0.42455
+   54  O(HETATM   54  O21 HET A   1)   1.88201   1.42627   1.83648   1.64387
+   55  O(HETATM   55  O22 HET A   1)   1.90008   1.87829   1.26785   1.84555
+   56  O(HETATM   56  O23 HET A   1)   1.91571   1.46964   1.75537   1.62952
+   57  O(HETATM   57  O24 HET A   1)   1.87676   1.54398   1.40178   1.56494
+   58  O(HETATM   58  O25 HET A   1)   1.86588   1.60005   1.75093   1.59745
+
+ **********************
+ *                    *
+ * JOB ENDED NORMALLY *
+ *                    *
+ **********************
+
+
+
+ TOTAL JOB TIME:            46.20 SECONDS
+
+ == MOPAC DONE ==
